@@ -1,0 +1,6712 @@
+[
+  {
+    "id": 748,
+    "name": "Raul Jimenez",
+    "abbr": "MEX",
+    "pos": "FWD",
+    "price": 7,
+    "owned_pct": 3.8,
+    "start_prob": 0.9,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 750,
+    "name": "Julian Quinones",
+    "abbr": "MEX",
+    "pos": "FWD",
+    "price": 5.6,
+    "owned_pct": 1.1,
+    "start_prob": 0.85,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 752,
+    "name": "Roberto Alvarado",
+    "abbr": "MEX",
+    "pos": "FWD",
+    "price": 5.3,
+    "owned_pct": 0.2,
+    "start_prob": 0.6,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 751,
+    "name": "Alexis Vega",
+    "abbr": "MEX",
+    "pos": "FWD",
+    "price": 5.3,
+    "owned_pct": 0.1,
+    "start_prob": 0.4,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 1485,
+    "name": "Santiago Gimenez",
+    "abbr": "MEX",
+    "pos": "FWD",
+    "price": 6.8,
+    "owned_pct": 0.5,
+    "start_prob": 0.25,
+    "md2_pts": 1.1
+  },
+  {
+    "id": 763,
+    "name": "Alvaro Fidalgo",
+    "abbr": "MEX",
+    "pos": "MID",
+    "price": 6.4,
+    "owned_pct": 0.4,
+    "start_prob": 0.72,
+    "md2_pts": 3
+  },
+  {
+    "id": 759,
+    "name": "Erik Lira",
+    "abbr": "MEX",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0.3,
+    "start_prob": 0.78,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 758,
+    "name": "Brian Gutierrez",
+    "abbr": "MEX",
+    "pos": "MID",
+    "price": 5,
+    "owned_pct": 1.4,
+    "start_prob": 0.7,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 1474,
+    "name": "Edson Alvarez",
+    "abbr": "MEX",
+    "pos": "MID",
+    "price": 6,
+    "owned_pct": 0.5,
+    "start_prob": 0.7,
+    "md2_pts": 2.9
+  },
+  {
+    "id": 740,
+    "name": "Johan Vasquez",
+    "abbr": "MEX",
+    "pos": "DEF",
+    "price": 4.7,
+    "owned_pct": 3.9,
+    "start_prob": 0.88,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 742,
+    "name": "Jesus Gallardo",
+    "abbr": "MEX",
+    "pos": "DEF",
+    "price": 4.7,
+    "owned_pct": 0.9,
+    "start_prob": 0.85,
+    "md2_pts": 4.2
+  },
+  {
+    "id": 744,
+    "name": "Israel Reyes",
+    "abbr": "MEX",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.9,
+    "start_prob": 0.8,
+    "md2_pts": 3.9
+  },
+  {
+    "id": 1465,
+    "name": "Mateo Chavez",
+    "abbr": "MEX",
+    "pos": "DEF",
+    "price": 3.5,
+    "owned_pct": 0.9,
+    "start_prob": 0.45,
+    "md2_pts": 2
+  },
+  {
+    "id": 743,
+    "name": "Jorge Sanchez",
+    "abbr": "MEX",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.7,
+    "start_prob": 0.35,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 757,
+    "name": "Raul Rangel",
+    "abbr": "MEX",
+    "pos": "GK",
+    "price": 3.9,
+    "owned_pct": 5.5,
+    "start_prob": 0.85,
+    "md2_pts": 4.1
+  },
+  {
+    "id": 755,
+    "name": "Guillermo Ochoa",
+    "abbr": "MEX",
+    "pos": "GK",
+    "price": 4.2,
+    "owned_pct": 3.6,
+    "start_prob": 0.1,
+    "md2_pts": 0.5
+  },
+  {
+    "id": 1549,
+    "name": "Hwang In-Beom",
+    "abbr": "KOR",
+    "pos": "MID",
+    "price": 5.8,
+    "owned_pct": 0.8,
+    "start_prob": 0.88,
+    "md2_pts": 4.3
+  },
+  {
+    "id": 723,
+    "name": "Son Heung-Min",
+    "abbr": "KOR",
+    "pos": "FWD",
+    "price": 7.4,
+    "owned_pct": 1.9,
+    "start_prob": 0.92,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 736,
+    "name": "Lee Kang-In",
+    "abbr": "KOR",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0.7,
+    "start_prob": 0.85,
+    "md2_pts": 3.9
+  },
+  {
+    "id": 726,
+    "name": "Oh Hyeon-Gyu",
+    "abbr": "KOR",
+    "pos": "FWD",
+    "price": 4.9,
+    "owned_pct": 0.2,
+    "start_prob": 0.7,
+    "md2_pts": 3
+  },
+  {
+    "id": 737,
+    "name": "Lee Jae-Sung",
+    "abbr": "KOR",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 732,
+    "name": "Paik Seung-Ho",
+    "abbr": "KOR",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.75,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 724,
+    "name": "Hwang Hee-Chan",
+    "abbr": "KOR",
+    "pos": "FWD",
+    "price": 6.1,
+    "owned_pct": 0.1,
+    "start_prob": 0.5,
+    "md2_pts": 2.1
+  },
+  {
+    "id": 715,
+    "name": "Kim Min-Jae",
+    "abbr": "KOR",
+    "pos": "DEF",
+    "price": 5,
+    "owned_pct": 2.1,
+    "start_prob": 0.9,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 716,
+    "name": "Seol Young-Woo",
+    "abbr": "KOR",
+    "pos": "DEF",
+    "price": 4.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 1548,
+    "name": "Lee Gi-Hyuk",
+    "abbr": "KOR",
+    "pos": "DEF",
+    "price": 4.5,
+    "owned_pct": 0.1,
+    "start_prob": 0.72,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 719,
+    "name": "Lee Han-Beom",
+    "abbr": "KOR",
+    "pos": "DEF",
+    "price": 3.7,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 730,
+    "name": "Kim Seung-Gyu",
+    "abbr": "KOR",
+    "pos": "GK",
+    "price": 4.1,
+    "owned_pct": 0.2,
+    "start_prob": 0.6,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 729,
+    "name": "Jo Hyeon-Woo",
+    "abbr": "KOR",
+    "pos": "GK",
+    "price": 4.6,
+    "owned_pct": 0.2,
+    "start_prob": 0.4,
+    "md2_pts": 1.7
+  },
+  {
+    "id": 382,
+    "name": "Patrik Schick",
+    "abbr": "CZE",
+    "pos": "FWD",
+    "price": 7.3,
+    "owned_pct": 0.7,
+    "start_prob": 0.9,
+    "md2_pts": 5
+  },
+  {
+    "id": 374,
+    "name": "Ladislav Krejci",
+    "abbr": "CZE",
+    "pos": "DEF",
+    "price": 4.4,
+    "owned_pct": 1.5,
+    "start_prob": 0.9,
+    "md2_pts": 4.9
+  },
+  {
+    "id": 380,
+    "name": "Vladimir Coufal",
+    "abbr": "CZE",
+    "pos": "DEF",
+    "price": 3.6,
+    "owned_pct": 3.3,
+    "start_prob": 0.82,
+    "md2_pts": 4
+  },
+  {
+    "id": 393,
+    "name": "Tomas Soucek",
+    "abbr": "CZE",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0.5,
+    "start_prob": 0.85,
+    "md2_pts": 3.8
+  },
+  {
+    "id": 397,
+    "name": "Pavel Sulc",
+    "abbr": "CZE",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0.2,
+    "start_prob": 0.78,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 396,
+    "name": "Lukas Provod",
+    "abbr": "CZE",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.78,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 387,
+    "name": "Matej Kovar",
+    "abbr": "CZE",
+    "pos": "GK",
+    "price": 4.1,
+    "owned_pct": 0.5,
+    "start_prob": 0.82,
+    "md2_pts": 3.8
+  },
+  {
+    "id": 378,
+    "name": "Robin Hranac",
+    "abbr": "CZE",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0,
+    "start_prob": 0.85,
+    "md2_pts": 4
+  },
+  {
+    "id": 381,
+    "name": "Stepan Chaloupek",
+    "abbr": "CZE",
+    "pos": "DEF",
+    "price": 3.5,
+    "owned_pct": 0.2,
+    "start_prob": 0.8,
+    "md2_pts": 3.8
+  },
+  {
+    "id": 379,
+    "name": "Jaroslav Zeleny",
+    "abbr": "CZE",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0,
+    "start_prob": 0.78,
+    "md2_pts": 3.7
+  },
+  {
+    "id": 1411,
+    "name": "Alexandr Sojka",
+    "abbr": "CZE",
+    "pos": "MID",
+    "price": 4.5,
+    "owned_pct": 0.1,
+    "start_prob": 0.72,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 1427,
+    "name": "Adam Hlozek",
+    "abbr": "CZE",
+    "pos": "FWD",
+    "price": 6.5,
+    "owned_pct": 0,
+    "start_prob": 0.45,
+    "md2_pts": 2
+  },
+  {
+    "id": 1077,
+    "name": "Ronwen Williams",
+    "abbr": "RSA",
+    "pos": "GK",
+    "price": 4.5,
+    "owned_pct": 0.4,
+    "start_prob": 0.9,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 1072,
+    "name": "Relebohile Mofokeng",
+    "abbr": "RSA",
+    "pos": "FWD",
+    "price": 4.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 2
+  },
+  {
+    "id": 1058,
+    "name": "Teboho Mokoena",
+    "abbr": "RSA",
+    "pos": "MID",
+    "price": 4.3,
+    "owned_pct": 0.2,
+    "start_prob": 0.75,
+    "md2_pts": 2
+  },
+  {
+    "id": 1071,
+    "name": "Lyle Foster",
+    "abbr": "RSA",
+    "pos": "FWD",
+    "price": 5.4,
+    "owned_pct": 0.1,
+    "start_prob": 0.78,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 1073,
+    "name": "Oswin Appollis",
+    "abbr": "RSA",
+    "pos": "FWD",
+    "price": 4.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.68,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 1057,
+    "name": "Jayden Adams",
+    "abbr": "RSA",
+    "pos": "MID",
+    "price": 4,
+    "owned_pct": 4.3,
+    "start_prob": 0.7,
+    "md2_pts": 1.7
+  },
+  {
+    "id": 1065,
+    "name": "Khuliso Mudau",
+    "abbr": "RSA",
+    "pos": "DEF",
+    "price": 3.6,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 1149,
+    "name": "Breel Embolo",
+    "abbr": "SUI",
+    "pos": "FWD",
+    "price": 7.5,
+    "owned_pct": 2.5,
+    "start_prob": 0.9,
+    "md2_pts": 5.6
+  },
+  {
+    "id": 226,
+    "name": "Jonathan David",
+    "abbr": "CAN",
+    "pos": "FWD",
+    "price": 7,
+    "owned_pct": 1.2,
+    "start_prob": 0.78,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 1151,
+    "name": "Dan Ndoye",
+    "abbr": "SUI",
+    "pos": "FWD",
+    "price": 6.8,
+    "owned_pct": 0.6,
+    "start_prob": 0.8,
+    "md2_pts": 4.3
+  },
+  {
+    "id": 1158,
+    "name": "Ruben Vargas",
+    "abbr": "SUI",
+    "pos": "MID",
+    "price": 6.8,
+    "owned_pct": 0.5,
+    "start_prob": 0.78,
+    "md2_pts": 4
+  },
+  {
+    "id": 146,
+    "name": "Ermedin Demirovic",
+    "abbr": "BIH",
+    "pos": "FWD",
+    "price": 6.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 227,
+    "name": "Cyle Larin",
+    "abbr": "CAN",
+    "pos": "FWD",
+    "price": 6.2,
+    "owned_pct": 0.2,
+    "start_prob": 0.62,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 1135,
+    "name": "Granit Xhaka",
+    "abbr": "SUI",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 4,
+    "start_prob": 0.92,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 1140,
+    "name": "Fabian Rieder",
+    "abbr": "SUI",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 0,
+    "start_prob": 0.3,
+    "md2_pts": 1.1
+  },
+  {
+    "id": 147,
+    "name": "Edin Dzeko",
+    "abbr": "BIH",
+    "pos": "FWD",
+    "price": 6.1,
+    "owned_pct": 0.8,
+    "start_prob": 0.4,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 1156,
+    "name": "Djibril Sow",
+    "abbr": "SUI",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0,
+    "start_prob": 0.2,
+    "md2_pts": 0.7
+  },
+  {
+    "id": 1157,
+    "name": "Denis Zakaria",
+    "abbr": "SUI",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0.1,
+    "start_prob": 0.55,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 1581,
+    "name": "Christian Fassnacht",
+    "abbr": "SUI",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0,
+    "start_prob": 0.15,
+    "md2_pts": 0.5
+  },
+  {
+    "id": 245,
+    "name": "Ismael Kone",
+    "abbr": "CAN",
+    "pos": "MID",
+    "price": 6,
+    "owned_pct": 0.3,
+    "start_prob": 0.7,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 958,
+    "name": "Akram Afif",
+    "abbr": "QAT",
+    "pos": "FWD",
+    "price": 5.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.85,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 1137,
+    "name": "Michel Aebischer",
+    "abbr": "SUI",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0,
+    "start_prob": 0.72,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 1138,
+    "name": "Remo Freuler",
+    "abbr": "SUI",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.88,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 1150,
+    "name": "Noah Okafor",
+    "abbr": "SUI",
+    "pos": "FWD",
+    "price": 5.9,
+    "owned_pct": 0.3,
+    "start_prob": 0.3,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 148,
+    "name": "Jovo Lukic",
+    "abbr": "BIH",
+    "pos": "FWD",
+    "price": 5.6,
+    "owned_pct": 0.1,
+    "start_prob": 0.78,
+    "md2_pts": 3
+  },
+  {
+    "id": 243,
+    "name": "Jonathan Osorio",
+    "abbr": "CAN",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.25,
+    "md2_pts": 0.9
+  },
+  {
+    "id": 1133,
+    "name": "Johan Manzambi",
+    "abbr": "SUI",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0.2,
+    "start_prob": 0.2,
+    "md2_pts": 0.7
+  },
+  {
+    "id": 162,
+    "name": "Amir Hadziahmetovic",
+    "abbr": "BIH",
+    "pos": "MID",
+    "price": 5.5,
+    "owned_pct": 0,
+    "start_prob": 0.4,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 228,
+    "name": "Tajon Buchanan",
+    "abbr": "CAN",
+    "pos": "FWD",
+    "price": 5.5,
+    "owned_pct": 0.1,
+    "start_prob": 0.72,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 1510,
+    "name": "Ahmed Alaa",
+    "abbr": "QAT",
+    "pos": "FWD",
+    "price": 5.5,
+    "owned_pct": 0,
+    "start_prob": 0.3,
+    "md2_pts": 0.9
+  },
+  {
+    "id": 1583,
+    "name": "Cedric Itten",
+    "abbr": "SUI",
+    "pos": "FWD",
+    "price": 5.4,
+    "owned_pct": 0,
+    "start_prob": 0.15,
+    "md2_pts": 0.5
+  },
+  {
+    "id": 1970,
+    "name": "Promise David",
+    "abbr": "CAN",
+    "pos": "FWD",
+    "price": 5.4,
+    "owned_pct": 0.1,
+    "start_prob": 0.4,
+    "md2_pts": 2
+  },
+  {
+    "id": 161,
+    "name": "Benjamin Tahirovic",
+    "abbr": "BIH",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 242,
+    "name": "Mathieu Choiniere",
+    "abbr": "CAN",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.2,
+    "md2_pts": 0.7
+  },
+  {
+    "id": 959,
+    "name": "Almoez Ali",
+    "abbr": "QAT",
+    "pos": "FWD",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.72,
+    "md2_pts": 2.1
+  },
+  {
+    "id": 1508,
+    "name": "Abdulaziz Hatem",
+    "abbr": "QAT",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.65,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 1511,
+    "name": "Mohammed Muntari",
+    "abbr": "QAT",
+    "pos": "FWD",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.2,
+    "md2_pts": 0.6
+  },
+  {
+    "id": 1139,
+    "name": "Ardon Jashari",
+    "abbr": "SUI",
+    "pos": "MID",
+    "price": 5.2,
+    "owned_pct": 0,
+    "start_prob": 0.2,
+    "md2_pts": 0.8
+  },
+  {
+    "id": 1968,
+    "name": "Jacob Shaffelburg",
+    "abbr": "CAN",
+    "pos": "MID",
+    "price": 5.2,
+    "owned_pct": 0,
+    "start_prob": 0.3,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 149,
+    "name": "Haris Tabakovic",
+    "abbr": "BIH",
+    "pos": "FWD",
+    "price": 5.1,
+    "owned_pct": 0,
+    "start_prob": 0.3,
+    "md2_pts": 1
+  },
+  {
+    "id": 158,
+    "name": "Ivan Sunjic",
+    "abbr": "BIH",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0,
+    "start_prob": 0.35,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 159,
+    "name": "Armin Gigovic",
+    "abbr": "BIH",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0,
+    "start_prob": 0.4,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 160,
+    "name": "Ivan Basic",
+    "abbr": "BIH",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0,
+    "start_prob": 0.72,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 229,
+    "name": "Liam Millar",
+    "abbr": "CAN",
+    "pos": "FWD",
+    "price": 5.1,
+    "owned_pct": 0.1,
+    "start_prob": 0.65,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 241,
+    "name": "Nathan Saliba",
+    "abbr": "CAN",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0.1,
+    "start_prob": 0.3,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 947,
+    "name": "Assim Madibo",
+    "abbr": "QAT",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0,
+    "start_prob": 0.72,
+    "md2_pts": 2
+  },
+  {
+    "id": 1142,
+    "name": "Ricardo Rodriguez",
+    "abbr": "SUI",
+    "pos": "DEF",
+    "price": 4.5,
+    "owned_pct": 1.6,
+    "start_prob": 0.85,
+    "md2_pts": 4.9
+  },
+  {
+    "id": 1141,
+    "name": "Manuel Akanji",
+    "abbr": "SUI",
+    "pos": "DEF",
+    "price": 5,
+    "owned_pct": 4.5,
+    "start_prob": 0.9,
+    "md2_pts": 4.3
+  },
+  {
+    "id": 1509,
+    "name": "Jassem Gaber",
+    "abbr": "QAT",
+    "pos": "MID",
+    "price": 5,
+    "owned_pct": 0.6,
+    "start_prob": 0.4,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 1967,
+    "name": "Stephen Eustaquio",
+    "abbr": "CAN",
+    "pos": "MID",
+    "price": 5,
+    "owned_pct": 0.8,
+    "start_prob": 0.82,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 1969,
+    "name": "Jayden Nelson",
+    "abbr": "CAN",
+    "pos": "MID",
+    "price": 5,
+    "owned_pct": 0.1,
+    "start_prob": 0.25,
+    "md2_pts": 1
+  },
+  {
+    "id": 230,
+    "name": "Tani Oluwaseyi",
+    "abbr": "CAN",
+    "pos": "FWD",
+    "price": 4.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.3,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 960,
+    "name": "Edmilson Junior",
+    "abbr": "QAT",
+    "pos": "FWD",
+    "price": 4.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 2
+  },
+  {
+    "id": 1582,
+    "name": "Zeki Amdouni",
+    "abbr": "SUI",
+    "pos": "FWD",
+    "price": 4.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.2,
+    "md2_pts": 0.9
+  },
+  {
+    "id": 1961,
+    "name": "Alphonso Davies",
+    "abbr": "CAN",
+    "pos": "DEF",
+    "price": 4.9,
+    "owned_pct": 3.6,
+    "start_prob": 0.82,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 150,
+    "name": "Esmir Bajraktarevic",
+    "abbr": "BIH",
+    "pos": "FWD",
+    "price": 4.7,
+    "owned_pct": 0.2,
+    "start_prob": 0.6,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 156,
+    "name": "Amar Memic",
+    "abbr": "BIH",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0.1,
+    "start_prob": 0.6,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 1153,
+    "name": "Gregor Kobel",
+    "abbr": "SUI",
+    "pos": "GK",
+    "price": 4.7,
+    "owned_pct": 5.7,
+    "start_prob": 0.92,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 11142,
+    "name": "Samed Bazdar",
+    "abbr": "BIH",
+    "pos": "FWD",
+    "price": 4.5,
+    "owned_pct": 0,
+    "start_prob": 0.2,
+    "md2_pts": 0.7
+  },
+  {
+    "id": 139,
+    "name": "Sead Kolasinac",
+    "abbr": "BIH",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.3,
+    "start_prob": 0.55,
+    "md2_pts": 2
+  },
+  {
+    "id": 140,
+    "name": "Amar Dedic",
+    "abbr": "BIH",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.4,
+    "start_prob": 0.78,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 1143,
+    "name": "Nico Elvedi",
+    "abbr": "SUI",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 3.8,
+    "start_prob": 0.85,
+    "md2_pts": 4
+  },
+  {
+    "id": 942,
+    "name": "Mohammad Al Mannai",
+    "abbr": "QAT",
+    "pos": "MID",
+    "price": 4.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.4,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 1144,
+    "name": "Silvan Widmer",
+    "abbr": "SUI",
+    "pos": "DEF",
+    "price": 4.2,
+    "owned_pct": 1.3,
+    "start_prob": 0.55,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 1506,
+    "name": "Homam El Amin",
+    "abbr": "QAT",
+    "pos": "DEF",
+    "price": 3.6,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 2
+  },
+  {
+    "id": 153,
+    "name": "Nikola Vasilj",
+    "abbr": "BIH",
+    "pos": "GK",
+    "price": 4,
+    "owned_pct": 0.7,
+    "start_prob": 0.85,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 221,
+    "name": "Derek Cornelius",
+    "abbr": "CAN",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.4,
+    "start_prob": 0.8,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 235,
+    "name": "Maxime Crepeau",
+    "abbr": "CAN",
+    "pos": "GK",
+    "price": 4,
+    "owned_pct": 4.6,
+    "start_prob": 0.85,
+    "md2_pts": 4
+  },
+  {
+    "id": 1963,
+    "name": "Alistair Johnston",
+    "abbr": "CAN",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.5,
+    "start_prob": 0.85,
+    "md2_pts": 4
+  },
+  {
+    "id": 141,
+    "name": "Tarik Muharemovic",
+    "abbr": "BIH",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0.4,
+    "start_prob": 0.78,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 220,
+    "name": "Richie Laryea",
+    "abbr": "CAN",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.5,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 949,
+    "name": "Pedro Miguel",
+    "abbr": "QAT",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0,
+    "start_prob": 0.7,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 142,
+    "name": "Nikola Katic",
+    "abbr": "BIH",
+    "pos": "DEF",
+    "price": 3.8,
+    "owned_pct": 0.2,
+    "start_prob": 0.72,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 952,
+    "name": "Boualem Khoukhi",
+    "abbr": "QAT",
+    "pos": "DEF",
+    "price": 3.8,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 11153,
+    "name": "Luc De Fougerolles",
+    "abbr": "CAN",
+    "pos": "DEF",
+    "price": 3.5,
+    "owned_pct": 0.7,
+    "start_prob": 0.7,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 1964,
+    "name": "Moise Bombito",
+    "abbr": "CAN",
+    "pos": "DEF",
+    "price": 4.1,
+    "owned_pct": 0.1,
+    "start_prob": 0.45,
+    "md2_pts": 2
+  },
+  {
+    "id": 971,
+    "name": "Mahmud Abunada",
+    "abbr": "QAT",
+    "pos": "GK",
+    "price": 3.5,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 2067,
+    "name": "Mladen Jurkas",
+    "abbr": "BIH",
+    "pos": "GK",
+    "price": 3.5,
+    "owned_pct": 3.3,
+    "start_prob": 0.15,
+    "md2_pts": 0.5
+  },
+  {
+    "id": 173,
+    "name": "Vinicius Junior",
+    "abbr": "BRA",
+    "pos": "MID",
+    "price": 10,
+    "owned_pct": 15.5,
+    "start_prob": 0.93,
+    "md2_pts": 6.6
+  },
+  {
+    "id": 1366,
+    "name": "Raphinha",
+    "abbr": "BRA",
+    "pos": "MID",
+    "price": 8.2,
+    "owned_pct": 21.6,
+    "start_prob": 0.9,
+    "md2_pts": 5.9
+  },
+  {
+    "id": 174,
+    "name": "Matheus Cunha",
+    "abbr": "BRA",
+    "pos": "FWD",
+    "price": 7.3,
+    "owned_pct": 2.9,
+    "start_prob": 0.65,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 1369,
+    "name": "Neymar",
+    "abbr": "BRA",
+    "pos": "MID",
+    "price": 7.2,
+    "owned_pct": 2.7,
+    "start_prob": 0.15,
+    "md2_pts": 0.8
+  },
+  {
+    "id": 792,
+    "name": "Ismael Saibari",
+    "abbr": "MAR",
+    "pos": "MID",
+    "price": 6.8,
+    "owned_pct": 1.5,
+    "start_prob": 0.85,
+    "md2_pts": 4.7
+  },
+  {
+    "id": 1361,
+    "name": "Bruno Guimaraes",
+    "abbr": "BRA",
+    "pos": "MID",
+    "price": 6.8,
+    "owned_pct": 2.5,
+    "start_prob": 0.82,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 176,
+    "name": "Gabriel Martinelli",
+    "abbr": "BRA",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 0.7,
+    "start_prob": 0.2,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 190,
+    "name": "Lucas Paqueta",
+    "abbr": "BRA",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 0.7,
+    "start_prob": 0.3,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 1027,
+    "name": "Scott McTominay",
+    "abbr": "SCO",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 9.1,
+    "start_prob": 0.9,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 2020,
+    "name": "Brahim Diaz",
+    "abbr": "MAR",
+    "pos": "MID",
+    "price": 6.4,
+    "owned_pct": 2.6,
+    "start_prob": 0.85,
+    "md2_pts": 4.3
+  },
+  {
+    "id": 188,
+    "name": "Casemiro",
+    "abbr": "BRA",
+    "pos": "MID",
+    "price": 6.3,
+    "owned_pct": 1.9,
+    "start_prob": 0.25,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 2073,
+    "name": "Ederson MID",
+    "abbr": "BRA",
+    "pos": "MID",
+    "price": 6.3,
+    "owned_pct": 0.1,
+    "start_prob": 0.3,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 2021,
+    "name": "Azzedine Ounahi",
+    "abbr": "MAR",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 3.5
+  },
+  {
+    "id": 2022,
+    "name": "Bilal El Khannouss",
+    "abbr": "MAR",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 177,
+    "name": "Luiz Henrique",
+    "abbr": "BRA",
+    "pos": "FWD",
+    "price": 6.1,
+    "owned_pct": 0.2,
+    "start_prob": 0.6,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 583,
+    "name": "Duckens Nazon",
+    "abbr": "HAI",
+    "pos": "FWD",
+    "price": 6,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 1003,
+    "name": "John McGinn",
+    "abbr": "SCO",
+    "pos": "MID",
+    "price": 6,
+    "owned_pct": 2.1,
+    "start_prob": 0.9,
+    "md2_pts": 4
+  },
+  {
+    "id": 2012,
+    "name": "Achraf Hakimi",
+    "abbr": "MAR",
+    "pos": "DEF",
+    "price": 6,
+    "owned_pct": 22.9,
+    "start_prob": 0.95,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 178,
+    "name": "Igor Thiago",
+    "abbr": "BRA",
+    "pos": "FWD",
+    "price": 5.9,
+    "owned_pct": 2.4,
+    "start_prob": 0.3,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 777,
+    "name": "Ayoub El Kaabi",
+    "abbr": "MAR",
+    "pos": "FWD",
+    "price": 5.9,
+    "owned_pct": 0.2,
+    "start_prob": 0.25,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 2018,
+    "name": "Sofyan Amrabat",
+    "abbr": "MAR",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.3,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 179,
+    "name": "Rayan",
+    "abbr": "BRA",
+    "pos": "FWD",
+    "price": 5.6,
+    "owned_pct": 0.2,
+    "start_prob": 0.2,
+    "md2_pts": 1.1
+  },
+  {
+    "id": 1007,
+    "name": "Ryan Christie",
+    "abbr": "SCO",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0.1,
+    "start_prob": 0.3,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 2019,
+    "name": "Neil El Aynaoui",
+    "abbr": "MAR",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 164,
+    "name": "Gabriel Magalhaes",
+    "abbr": "BRA",
+    "pos": "DEF",
+    "price": 5.5,
+    "owned_pct": 19.9,
+    "start_prob": 0.85,
+    "md2_pts": 4.5
+  },
+  {
+    "id": 181,
+    "name": "Endrick",
+    "abbr": "BRA",
+    "pos": "FWD",
+    "price": 5.5,
+    "owned_pct": 2.9,
+    "start_prob": 0.35,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 1580,
+    "name": "Lawrence Shankland",
+    "abbr": "SCO",
+    "pos": "FWD",
+    "price": 5.5,
+    "owned_pct": 0.6,
+    "start_prob": 0.55,
+    "md2_pts": 2
+  },
+  {
+    "id": 1674,
+    "name": "Ayyoub Bouaddi",
+    "abbr": "MAR",
+    "pos": "MID",
+    "price": 5.5,
+    "owned_pct": 0.4,
+    "start_prob": 0.7,
+    "md2_pts": 3
+  },
+  {
+    "id": 1019,
+    "name": "Che Adams",
+    "abbr": "SCO",
+    "pos": "FWD",
+    "price": 5.4,
+    "owned_pct": 0.3,
+    "start_prob": 0.78,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 1579,
+    "name": "Ross Stewart",
+    "abbr": "SCO",
+    "pos": "FWD",
+    "price": 5.4,
+    "owned_pct": 0,
+    "start_prob": 0.15,
+    "md2_pts": 0.7
+  },
+  {
+    "id": 165,
+    "name": "Marquinhos",
+    "abbr": "BRA",
+    "pos": "DEF",
+    "price": 5.2,
+    "owned_pct": 8.2,
+    "start_prob": 0.85,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 186,
+    "name": "Fabinho",
+    "abbr": "BRA",
+    "pos": "MID",
+    "price": 5.2,
+    "owned_pct": 0.4,
+    "start_prob": 0.7,
+    "md2_pts": 3
+  },
+  {
+    "id": 182,
+    "name": "Ederson GK",
+    "abbr": "BRA",
+    "pos": "GK",
+    "price": 5,
+    "owned_pct": 2.9,
+    "start_prob": 0.45,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 183,
+    "name": "Alisson Becker",
+    "abbr": "BRA",
+    "pos": "GK",
+    "price": 5,
+    "owned_pct": 6.1,
+    "start_prob": 0.55,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 582,
+    "name": "Wilson Isidor",
+    "abbr": "HAI",
+    "pos": "FWD",
+    "price": 5,
+    "owned_pct": 1,
+    "start_prob": 0.5,
+    "md2_pts": 1
+  },
+  {
+    "id": 1009,
+    "name": "Andy Robertson",
+    "abbr": "SCO",
+    "pos": "DEF",
+    "price": 5,
+    "owned_pct": 4.7,
+    "start_prob": 0.9,
+    "md2_pts": 3.3
+  },
+  {
+    "id": 1578,
+    "name": "Ben Gannon-Doak",
+    "abbr": "SCO",
+    "pos": "MID",
+    "price": 4.9,
+    "owned_pct": 0.3,
+    "start_prob": 0.7,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 1028,
+    "name": "Lewis Ferguson",
+    "abbr": "SCO",
+    "pos": "MID",
+    "price": 4.8,
+    "owned_pct": 0.2,
+    "start_prob": 0.8,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 571,
+    "name": "Jean-Ricner Bellegarde",
+    "abbr": "HAI",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0.1,
+    "start_prob": 0.55,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 573,
+    "name": "Danley Jean Jacques",
+    "abbr": "HAI",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0,
+    "start_prob": 0.65,
+    "md2_pts": 1.7
+  },
+  {
+    "id": 584,
+    "name": "Frantzdy Pierrot",
+    "abbr": "HAI",
+    "pos": "FWD",
+    "price": 4.7,
+    "owned_pct": 0,
+    "start_prob": 0.6,
+    "md2_pts": 1.1
+  },
+  {
+    "id": 2010,
+    "name": "Yassine Bounou",
+    "abbr": "MAR",
+    "pos": "GK",
+    "price": 4.7,
+    "owned_pct": 3.8,
+    "start_prob": 0.9,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 187,
+    "name": "Danilo MID",
+    "abbr": "BRA",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0.2,
+    "start_prob": 0.2,
+    "md2_pts": 1
+  },
+  {
+    "id": 1345,
+    "name": "Alex Sandro",
+    "abbr": "BRA",
+    "pos": "DEF",
+    "price": 4.5,
+    "owned_pct": 0.6,
+    "start_prob": 0.75,
+    "md2_pts": 3.7
+  },
+  {
+    "id": 2016,
+    "name": "Issa Diop",
+    "abbr": "MAR",
+    "pos": "DEF",
+    "price": 4.5,
+    "owned_pct": 0.3,
+    "start_prob": 0.8,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 2014,
+    "name": "Noussair Mazraoui",
+    "abbr": "MAR",
+    "pos": "DEF",
+    "price": 4.4,
+    "owned_pct": 1.2,
+    "start_prob": 0.8,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 167,
+    "name": "Danilo DEF",
+    "abbr": "BRA",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.8,
+    "start_prob": 0.65,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 168,
+    "name": "Douglas Santos",
+    "abbr": "BRA",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.9,
+    "start_prob": 0.3,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 1577,
+    "name": "Aaron Hickey",
+    "abbr": "SCO",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.2,
+    "start_prob": 0.72,
+    "md2_pts": 3
+  },
+  {
+    "id": 1012,
+    "name": "Jack Hendry",
+    "abbr": "SCO",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 3.1
+  },
+  {
+    "id": 2013,
+    "name": "Chadi Riad",
+    "abbr": "MAR",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0.2,
+    "start_prob": 0.8,
+    "md2_pts": 3.3
+  },
+  {
+    "id": 1018,
+    "name": "Grant Hanley",
+    "abbr": "SCO",
+    "pos": "DEF",
+    "price": 3.5,
+    "owned_pct": 0.6,
+    "start_prob": 0.7,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 1025,
+    "name": "Angus Gunn",
+    "abbr": "SCO",
+    "pos": "GK",
+    "price": 3.6,
+    "owned_pct": 2,
+    "start_prob": 0.85,
+    "md2_pts": 3.5
+  },
+  {
+    "id": 591,
+    "name": "Johny Placide",
+    "abbr": "HAI",
+    "pos": "GK",
+    "price": 3.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.6,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 2015,
+    "name": "Redouane Halhal",
+    "abbr": "MAR",
+    "pos": "DEF",
+    "price": 3.5,
+    "owned_pct": 2.6,
+    "start_prob": 0.15,
+    "md2_pts": 0.6
+  },
+  {
+    "id": 1267,
+    "name": "Folarin Balogun",
+    "abbr": "USA",
+    "pos": "FWD",
+    "price": 6,
+    "owned_pct": 3.3,
+    "start_prob": 0.95,
+    "md2_pts": 6
+  },
+  {
+    "id": 1274,
+    "name": "Christian Pulisic",
+    "abbr": "USA",
+    "pos": "MID",
+    "price": 7,
+    "owned_pct": 5.2,
+    "start_prob": 0.7,
+    "md2_pts": 3.9
+  },
+  {
+    "id": 1254,
+    "name": "Malik Tillman",
+    "abbr": "USA",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0.3,
+    "start_prob": 0.9,
+    "md2_pts": 4.8
+  },
+  {
+    "id": 1255,
+    "name": "Weston McKennie",
+    "abbr": "USA",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0.6,
+    "start_prob": 0.9,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 1256,
+    "name": "Giovanni Reyna",
+    "abbr": "USA",
+    "pos": "MID",
+    "price": 5.5,
+    "owned_pct": 0.5,
+    "start_prob": 0.5,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 2031,
+    "name": "Sergino Dest",
+    "abbr": "USA",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 3,
+    "start_prob": 0.85,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 1258,
+    "name": "Antonee Robinson",
+    "abbr": "USA",
+    "pos": "DEF",
+    "price": 5,
+    "owned_pct": 3.3,
+    "start_prob": 0.9,
+    "md2_pts": 4.2
+  },
+  {
+    "id": 1264,
+    "name": "Alexander Freeman",
+    "abbr": "USA",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.5,
+    "start_prob": 0.5,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 1259,
+    "name": "Chris Richards",
+    "abbr": "USA",
+    "pos": "DEF",
+    "price": 4.1,
+    "owned_pct": 0.6,
+    "start_prob": 0.85,
+    "md2_pts": 3.8
+  },
+  {
+    "id": 1261,
+    "name": "Tim Ream",
+    "abbr": "USA",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0.3,
+    "start_prob": 0.8,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 1271,
+    "name": "Matt Freese",
+    "abbr": "USA",
+    "pos": "GK",
+    "price": 4.2,
+    "owned_pct": 0.6,
+    "start_prob": 0.9,
+    "md2_pts": 3.8
+  },
+  {
+    "id": 1265,
+    "name": "Timothy Weah",
+    "abbr": "USA",
+    "pos": "MID",
+    "price": 5.8,
+    "owned_pct": 0.2,
+    "start_prob": 0.6,
+    "md2_pts": 3
+  },
+  {
+    "id": 1253,
+    "name": "Brenden Aaronson",
+    "abbr": "USA",
+    "pos": "MID",
+    "price": 5.7,
+    "owned_pct": 0.3,
+    "start_prob": 0.4,
+    "md2_pts": 2
+  },
+  {
+    "id": 2033,
+    "name": "Tyler Adams",
+    "abbr": "USA",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0.3,
+    "start_prob": 0.85,
+    "md2_pts": 3
+  },
+  {
+    "id": 1266,
+    "name": "Ricardo Pepi",
+    "abbr": "USA",
+    "pos": "FWD",
+    "price": 5.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.15,
+    "md2_pts": 0.9
+  },
+  {
+    "id": 1216,
+    "name": "Hakan Calhanoglu",
+    "abbr": "TUR",
+    "pos": "MID",
+    "price": 7.1,
+    "owned_pct": 1.7,
+    "start_prob": 0.92,
+    "md2_pts": 5
+  },
+  {
+    "id": 1215,
+    "name": "Arda Guler",
+    "abbr": "TUR",
+    "pos": "MID",
+    "price": 7,
+    "owned_pct": 8.4,
+    "start_prob": 0.9,
+    "md2_pts": 4.9
+  },
+  {
+    "id": 1204,
+    "name": "Kenan Yildiz",
+    "abbr": "TUR",
+    "pos": "MID",
+    "price": 7,
+    "owned_pct": 3,
+    "start_prob": 0.85,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 1205,
+    "name": "Kerem Akturkoglu",
+    "abbr": "TUR",
+    "pos": "FWD",
+    "price": 6.2,
+    "owned_pct": 0.2,
+    "start_prob": 0.75,
+    "md2_pts": 3.8
+  },
+  {
+    "id": 1192,
+    "name": "Orkun Kokcu",
+    "abbr": "TUR",
+    "pos": "MID",
+    "price": 6,
+    "owned_pct": 0.3,
+    "start_prob": 0.75,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 1195,
+    "name": "Ferdi Kadioglu",
+    "abbr": "TUR",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 1.4,
+    "start_prob": 0.85,
+    "md2_pts": 3.9
+  },
+  {
+    "id": 1201,
+    "name": "Merih Demiral",
+    "abbr": "TUR",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.6,
+    "start_prob": 0.85,
+    "md2_pts": 3.7
+  },
+  {
+    "id": 1194,
+    "name": "Zeki Celik",
+    "abbr": "TUR",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 3.3
+  },
+  {
+    "id": 1198,
+    "name": "Ozan Kabak",
+    "abbr": "TUR",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.3,
+    "start_prob": 0.8,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 1211,
+    "name": "Ugurcan Cakir",
+    "abbr": "TUR",
+    "pos": "GK",
+    "price": 4.2,
+    "owned_pct": 1.6,
+    "start_prob": 0.9,
+    "md2_pts": 3.7
+  },
+  {
+    "id": 1189,
+    "name": "Salih Ozcan",
+    "abbr": "TUR",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 1206,
+    "name": "Baris Alper Yilmaz",
+    "abbr": "TUR",
+    "pos": "FWD",
+    "price": 6.1,
+    "owned_pct": 0.5,
+    "start_prob": 0.4,
+    "md2_pts": 2
+  },
+  {
+    "id": 1199,
+    "name": "Eren Elmali",
+    "abbr": "TUR",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.2,
+    "start_prob": 0.55,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 912,
+    "name": "Julio Enciso",
+    "abbr": "PAR",
+    "pos": "MID",
+    "price": 6.6,
+    "owned_pct": 0.2,
+    "start_prob": 0.85,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 902,
+    "name": "Antonio Sanabria",
+    "abbr": "PAR",
+    "pos": "FWD",
+    "price": 6.5,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 901,
+    "name": "Miguel Almiron",
+    "abbr": "PAR",
+    "pos": "MID",
+    "price": 6,
+    "owned_pct": 0.3,
+    "start_prob": 0.55,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 913,
+    "name": "Diego Gomez",
+    "abbr": "PAR",
+    "pos": "MID",
+    "price": 6.8,
+    "owned_pct": 0.2,
+    "start_prob": 0.8,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 1616,
+    "name": "Andres Cubas",
+    "abbr": "PAR",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0,
+    "start_prob": 0.85,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 903,
+    "name": "Ramon Sosa",
+    "abbr": "PAR",
+    "pos": "FWD",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.55,
+    "md2_pts": 2
+  },
+  {
+    "id": 893,
+    "name": "Gustavo Gomez",
+    "abbr": "PAR",
+    "pos": "DEF",
+    "price": 4.6,
+    "owned_pct": 0.3,
+    "start_prob": 0.9,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 908,
+    "name": "Roberto Fernandez",
+    "abbr": "PAR",
+    "pos": "GK",
+    "price": 4,
+    "owned_pct": 0.3,
+    "start_prob": 0.85,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 895,
+    "name": "Omar Alderete",
+    "abbr": "PAR",
+    "pos": "DEF",
+    "price": 4.1,
+    "owned_pct": 0.3,
+    "start_prob": 0.8,
+    "md2_pts": 2
+  },
+  {
+    "id": 888,
+    "name": "Mauricio Magalhaes Prado",
+    "abbr": "PAR",
+    "pos": "MID",
+    "price": 4.6,
+    "owned_pct": 0.2,
+    "start_prob": 0.6,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 68,
+    "name": "Nestory Irankunda",
+    "abbr": "AUS",
+    "pos": "FWD",
+    "price": 5.1,
+    "owned_pct": 0.5,
+    "start_prob": 0.8,
+    "md2_pts": 3
+  },
+  {
+    "id": 80,
+    "name": "Connor Metcalfe",
+    "abbr": "AUS",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0.2,
+    "start_prob": 0.85,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 76,
+    "name": "Patrick Beach",
+    "abbr": "AUS",
+    "pos": "GK",
+    "price": 3.5,
+    "owned_pct": 2.4,
+    "start_prob": 0.85,
+    "md2_pts": 4.2
+  },
+  {
+    "id": 58,
+    "name": "Jordan Bos",
+    "abbr": "AUS",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.6,
+    "start_prob": 0.85,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 72,
+    "name": "Jacob Italiano",
+    "abbr": "AUS",
+    "pos": "DEF",
+    "price": 4.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 2002,
+    "name": "Harry Souttar",
+    "abbr": "AUS",
+    "pos": "DEF",
+    "price": 4.1,
+    "owned_pct": 0.2,
+    "start_prob": 0.85,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 60,
+    "name": "Alessandro Circati",
+    "abbr": "AUS",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0.2,
+    "start_prob": 0.85,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 61,
+    "name": "Cameron Burgess",
+    "abbr": "AUS",
+    "pos": "DEF",
+    "price": 3.8,
+    "owned_pct": 0.2,
+    "start_prob": 0.85,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 2006,
+    "name": "Mohamed Toure",
+    "abbr": "AUS",
+    "pos": "FWD",
+    "price": 5,
+    "owned_pct": 0.9,
+    "start_prob": 0.7,
+    "md2_pts": 2
+  },
+  {
+    "id": 77,
+    "name": "Paul Okon",
+    "abbr": "AUS",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 81,
+    "name": "Aiden ONeill",
+    "abbr": "AUS",
+    "pos": "MID",
+    "price": 5.4,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 2004,
+    "name": "Jackson Irvine",
+    "abbr": "AUS",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 74,
+    "name": "Mathew Ryan",
+    "abbr": "AUS",
+    "pos": "GK",
+    "price": 4.1,
+    "owned_pct": 0.5,
+    "start_prob": 0.15,
+    "md2_pts": 0.7
+  },
+  {
+    "id": 528,
+    "name": "Kai Havertz",
+    "abbr": "GER",
+    "pos": "FWD",
+    "price": 7.8,
+    "owned_pct": 15.9,
+    "start_prob": 0.95,
+    "md2_pts": 6
+  },
+  {
+    "id": 1600,
+    "name": "Jamal Musiala",
+    "abbr": "GER",
+    "pos": "MID",
+    "price": 8,
+    "owned_pct": 12.7,
+    "start_prob": 0.93,
+    "md2_pts": 5.4
+  },
+  {
+    "id": 543,
+    "name": "Florian Wirtz",
+    "abbr": "GER",
+    "pos": "MID",
+    "price": 7.5,
+    "owned_pct": 21.7,
+    "start_prob": 0.9,
+    "md2_pts": 4.8
+  },
+  {
+    "id": 542,
+    "name": "Joshua Kimmich",
+    "abbr": "GER",
+    "pos": "DEF",
+    "price": 5.5,
+    "owned_pct": 33.6,
+    "start_prob": 0.95,
+    "md2_pts": 5
+  },
+  {
+    "id": 526,
+    "name": "Nico Schlotterbeck",
+    "abbr": "GER",
+    "pos": "DEF",
+    "price": 5.3,
+    "owned_pct": 5.6,
+    "start_prob": 0.85,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 523,
+    "name": "Jonathan Tah",
+    "abbr": "GER",
+    "pos": "DEF",
+    "price": 5.3,
+    "owned_pct": 3.9,
+    "start_prob": 0.88,
+    "md2_pts": 3.9
+  },
+  {
+    "id": 520,
+    "name": "Antonio Rudiger",
+    "abbr": "GER",
+    "pos": "DEF",
+    "price": 5.5,
+    "owned_pct": 9.4,
+    "start_prob": 0.55,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 525,
+    "name": "Nathaniel Brown",
+    "abbr": "GER",
+    "pos": "DEF",
+    "price": 4.7,
+    "owned_pct": 4.2,
+    "start_prob": 0.6,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 521,
+    "name": "David Raum",
+    "abbr": "GER",
+    "pos": "DEF",
+    "price": 4.9,
+    "owned_pct": 1.6,
+    "start_prob": 0.4,
+    "md2_pts": 2.1
+  },
+  {
+    "id": 1601,
+    "name": "Felix Nmecha",
+    "abbr": "GER",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 2,
+    "start_prob": 0.6,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 1602,
+    "name": "Aleksandar Pavlovic",
+    "abbr": "GER",
+    "pos": "MID",
+    "price": 5.5,
+    "owned_pct": 0.6,
+    "start_prob": 0.75,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 529,
+    "name": "Leroy Sane",
+    "abbr": "GER",
+    "pos": "MID",
+    "price": 7.4,
+    "owned_pct": 2,
+    "start_prob": 0.55,
+    "md2_pts": 3
+  },
+  {
+    "id": 531,
+    "name": "Deniz Undav",
+    "abbr": "GER",
+    "pos": "FWD",
+    "price": 6.6,
+    "owned_pct": 1,
+    "start_prob": 0.35,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 1598,
+    "name": "Manuel Neuer",
+    "abbr": "GER",
+    "pos": "GK",
+    "price": 5,
+    "owned_pct": 12,
+    "start_prob": 0.92,
+    "md2_pts": 3.8
+  },
+  {
+    "id": 540,
+    "name": "Leon Goretzka",
+    "abbr": "GER",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0.4,
+    "start_prob": 0.3,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 310,
+    "name": "Amad Diallo",
+    "abbr": "CIV",
+    "pos": "FWD",
+    "price": 5.9,
+    "owned_pct": 0.8,
+    "start_prob": 0.88,
+    "md2_pts": 3
+  },
+  {
+    "id": 300,
+    "name": "Wilfried Singo",
+    "abbr": "CIV",
+    "pos": "DEF",
+    "price": 4.4,
+    "owned_pct": 0.5,
+    "start_prob": 0.85,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 317,
+    "name": "Yahia Fofana",
+    "abbr": "CIV",
+    "pos": "GK",
+    "price": 4.2,
+    "owned_pct": 0.4,
+    "start_prob": 0.8,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 304,
+    "name": "Emmanuel Agbadou",
+    "abbr": "CIV",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 305,
+    "name": "Ghislain Konan",
+    "abbr": "CIV",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.3,
+    "start_prob": 0.7,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 303,
+    "name": "Guela Doue",
+    "abbr": "CIV",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 1.3,
+    "start_prob": 0.7,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 322,
+    "name": "Franck Kessie",
+    "abbr": "CIV",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0.2,
+    "start_prob": 0.85,
+    "md2_pts": 2
+  },
+  {
+    "id": 323,
+    "name": "Seko Fofana",
+    "abbr": "CIV",
+    "pos": "MID",
+    "price": 6.8,
+    "owned_pct": 0.2,
+    "start_prob": 0.7,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 299,
+    "name": "Evan Ndicka",
+    "abbr": "CIV",
+    "pos": "DEF",
+    "price": 4.4,
+    "owned_pct": 0.3,
+    "start_prob": 0.7,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 307,
+    "name": "Yan Diomande",
+    "abbr": "CIV",
+    "pos": "FWD",
+    "price": 5.9,
+    "owned_pct": 1.2,
+    "start_prob": 0.5,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 430,
+    "name": "Moises Caicedo",
+    "abbr": "ECU",
+    "pos": "MID",
+    "price": 6.8,
+    "owned_pct": 1.5,
+    "start_prob": 0.92,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 2053,
+    "name": "Willian Pacho",
+    "abbr": "ECU",
+    "pos": "DEF",
+    "price": 4.4,
+    "owned_pct": 5.8,
+    "start_prob": 0.85,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 2052,
+    "name": "Piero Hincapie",
+    "abbr": "ECU",
+    "pos": "DEF",
+    "price": 4.7,
+    "owned_pct": 4.4,
+    "start_prob": 0.85,
+    "md2_pts": 4.7
+  },
+  {
+    "id": 400,
+    "name": "Pervis Estupinan",
+    "abbr": "ECU",
+    "pos": "DEF",
+    "price": 4.8,
+    "owned_pct": 2.3,
+    "start_prob": 0.8,
+    "md2_pts": 4.3
+  },
+  {
+    "id": 404,
+    "name": "Joel Ordonez",
+    "abbr": "ECU",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 2.3,
+    "start_prob": 0.6,
+    "md2_pts": 3.1
+  },
+  {
+    "id": 403,
+    "name": "Angelo Preciado",
+    "abbr": "ECU",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 3.8
+  },
+  {
+    "id": 423,
+    "name": "Hernan Galindez",
+    "abbr": "ECU",
+    "pos": "GK",
+    "price": 4.2,
+    "owned_pct": 5,
+    "start_prob": 0.8,
+    "md2_pts": 4
+  },
+  {
+    "id": 412,
+    "name": "Enner Valencia",
+    "abbr": "ECU",
+    "pos": "FWD",
+    "price": 5.9,
+    "owned_pct": 1.3,
+    "start_prob": 0.7,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 413,
+    "name": "Gonzalo Plata",
+    "abbr": "ECU",
+    "pos": "FWD",
+    "price": 5.6,
+    "owned_pct": 0.1,
+    "start_prob": 0.6,
+    "md2_pts": 3
+  },
+  {
+    "id": 414,
+    "name": "John Yeboah",
+    "abbr": "ECU",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0.3,
+    "start_prob": 0.55,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 415,
+    "name": "Kevin Rodriguez",
+    "abbr": "ECU",
+    "pos": "FWD",
+    "price": 4.9,
+    "owned_pct": 0.2,
+    "start_prob": 0.5,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 428,
+    "name": "Alan Franco",
+    "abbr": "ECU",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.6,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 1947,
+    "name": "Nilson Angulo",
+    "abbr": "ECU",
+    "pos": "MID",
+    "price": 6,
+    "owned_pct": 0.1,
+    "start_prob": 0.55,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 405,
+    "name": "Felix Torres",
+    "abbr": "ECU",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.45,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 372,
+    "name": "Juninho Bacuna",
+    "abbr": "CUW",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0,
+    "start_prob": 0.65,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 350,
+    "name": "Tahith Chong",
+    "abbr": "CUW",
+    "pos": "MID",
+    "price": 4.2,
+    "owned_pct": 0.5,
+    "start_prob": 0.65,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 360,
+    "name": "Livano Comenencia",
+    "abbr": "CUW",
+    "pos": "DEF",
+    "price": 4.5,
+    "owned_pct": 0,
+    "start_prob": 0.6,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 363,
+    "name": "Sontje Hansen",
+    "abbr": "CUW",
+    "pos": "FWD",
+    "price": 4.4,
+    "owned_pct": 0,
+    "start_prob": 0.6,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 368,
+    "name": "Eloy Room",
+    "abbr": "CUW",
+    "pos": "GK",
+    "price": 3.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.55,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 1520,
+    "name": "Alexander Isak",
+    "abbr": "SWE",
+    "pos": "FWD",
+    "price": 8,
+    "owned_pct": 3.7,
+    "start_prob": 0.92,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 1124,
+    "name": "Viktor Gyokeres",
+    "abbr": "SWE",
+    "pos": "FWD",
+    "price": 7.8,
+    "owned_pct": 5.3,
+    "start_prob": 0.92,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 804,
+    "name": "Cody Gakpo",
+    "abbr": "NED",
+    "pos": "FWD",
+    "price": 7.7,
+    "owned_pct": 3.4,
+    "start_prob": 0.9,
+    "md2_pts": 5
+  },
+  {
+    "id": 2043,
+    "name": "Memphis Depay",
+    "abbr": "NED",
+    "pos": "FWD",
+    "price": 7.4,
+    "owned_pct": 1,
+    "start_prob": 0.7,
+    "md2_pts": 3.9
+  },
+  {
+    "id": 672,
+    "name": "Ayase Ueda",
+    "abbr": "JPN",
+    "pos": "FWD",
+    "price": 7,
+    "owned_pct": 0.7,
+    "start_prob": 0.72,
+    "md2_pts": 4.2
+  },
+  {
+    "id": 1458,
+    "name": "Takefusa Kubo",
+    "abbr": "JPN",
+    "pos": "MID",
+    "price": 7,
+    "owned_pct": 1.2,
+    "start_prob": 0.85,
+    "md2_pts": 4.8
+  },
+  {
+    "id": 2040,
+    "name": "Frenkie de Jong",
+    "abbr": "NED",
+    "pos": "MID",
+    "price": 7,
+    "owned_pct": 1.8,
+    "start_prob": 0.9,
+    "md2_pts": 3.5
+  },
+  {
+    "id": 817,
+    "name": "Quinten Timber",
+    "abbr": "NED",
+    "pos": "MID",
+    "price": 6.8,
+    "owned_pct": 0.4,
+    "start_prob": 0.35,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 816,
+    "name": "Tijjani Reijnders",
+    "abbr": "NED",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 1.4,
+    "start_prob": 0.85,
+    "md2_pts": 4
+  },
+  {
+    "id": 2042,
+    "name": "Justin Kluivert",
+    "abbr": "NED",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 0.2,
+    "start_prob": 0.25,
+    "md2_pts": 1.1
+  },
+  {
+    "id": 814,
+    "name": "Teun Koopmeiners",
+    "abbr": "NED",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.2,
+    "md2_pts": 0.9
+  },
+  {
+    "id": 805,
+    "name": "Donyell Malen",
+    "abbr": "NED",
+    "pos": "FWD",
+    "price": 6.1,
+    "owned_pct": 1.2,
+    "start_prob": 0.3,
+    "md2_pts": 1.7
+  },
+  {
+    "id": 812,
+    "name": "Ryan Gravenberch",
+    "abbr": "NED",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 1.4,
+    "start_prob": 0.9,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 1117,
+    "name": "Mattias Svanberg",
+    "abbr": "SWE",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 1519,
+    "name": "Ken Sema",
+    "abbr": "SWE",
+    "pos": "MID",
+    "price": 6,
+    "owned_pct": 0.1,
+    "start_prob": 0.3,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 806,
+    "name": "Noa Lang",
+    "abbr": "NED",
+    "pos": "FWD",
+    "price": 5.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.6,
+    "md2_pts": 3
+  },
+  {
+    "id": 682,
+    "name": "Daichi Kamada",
+    "abbr": "JPN",
+    "pos": "MID",
+    "price": 5.8,
+    "owned_pct": 1.4,
+    "start_prob": 0.85,
+    "md2_pts": 5
+  },
+  {
+    "id": 1125,
+    "name": "Anthony Elanga",
+    "abbr": "SWE",
+    "pos": "FWD",
+    "price": 5.8,
+    "owned_pct": 0.3,
+    "start_prob": 0.7,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 795,
+    "name": "Denzel Dumfries",
+    "abbr": "NED",
+    "pos": "DEF",
+    "price": 5.7,
+    "owned_pct": 14.3,
+    "start_prob": 0.7,
+    "md2_pts": 3.8
+  },
+  {
+    "id": 807,
+    "name": "Brian Brobbey",
+    "abbr": "NED",
+    "pos": "FWD",
+    "price": 5.7,
+    "owned_pct": 0.2,
+    "start_prob": 0.2,
+    "md2_pts": 1
+  },
+  {
+    "id": 1116,
+    "name": "Jesper Karlstrom",
+    "abbr": "SWE",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.75,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 671,
+    "name": "Keito Nakamura",
+    "abbr": "JPN",
+    "pos": "MID",
+    "price": 5.5,
+    "owned_pct": 1.2,
+    "start_prob": 0.85,
+    "md2_pts": 4.8
+  },
+  {
+    "id": 796,
+    "name": "Virgil van Dijk",
+    "abbr": "NED",
+    "pos": "DEF",
+    "price": 5.5,
+    "owned_pct": 21,
+    "start_prob": 0.97,
+    "md2_pts": 4.8
+  },
+  {
+    "id": 808,
+    "name": "Wout Weghorst",
+    "abbr": "NED",
+    "pos": "FWD",
+    "price": 5.5,
+    "owned_pct": 0.2,
+    "start_prob": 0.15,
+    "md2_pts": 0.9
+  },
+  {
+    "id": 1114,
+    "name": "Yasin Ayari",
+    "abbr": "SWE",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 1.7,
+    "start_prob": 0.75,
+    "md2_pts": 4.2
+  },
+  {
+    "id": 1164,
+    "name": "Anis Ben Slimane",
+    "abbr": "TUN",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.6,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 2044,
+    "name": "Crysencio Summerville",
+    "abbr": "NED",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 1.1,
+    "start_prob": 0.55,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 684,
+    "name": "Ritsu Doan",
+    "abbr": "JPN",
+    "pos": "DEF",
+    "price": 5.1,
+    "owned_pct": 1,
+    "start_prob": 0.7,
+    "md2_pts": 4
+  },
+  {
+    "id": 797,
+    "name": "Micky van de Ven",
+    "abbr": "NED",
+    "pos": "DEF",
+    "price": 5.1,
+    "owned_pct": 4.5,
+    "start_prob": 0.85,
+    "md2_pts": 4
+  },
+  {
+    "id": 1113,
+    "name": "Lucas Bergvall",
+    "abbr": "SWE",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0.4,
+    "start_prob": 0.75,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 2041,
+    "name": "Marten de Roon",
+    "abbr": "NED",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0.1,
+    "start_prob": 0.15,
+    "md2_pts": 0.7
+  },
+  {
+    "id": 669,
+    "name": "Junya Ito",
+    "abbr": "JPN",
+    "pos": "MID",
+    "price": 5,
+    "owned_pct": 1.3,
+    "start_prob": 0.45,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 670,
+    "name": "Daizen Maeda",
+    "abbr": "JPN",
+    "pos": "MID",
+    "price": 5,
+    "owned_pct": 1.1,
+    "start_prob": 0.7,
+    "md2_pts": 3.8
+  },
+  {
+    "id": 680,
+    "name": "Yuito Suzuki",
+    "abbr": "JPN",
+    "pos": "MID",
+    "price": 5,
+    "owned_pct": 0.8,
+    "start_prob": 0.3,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 681,
+    "name": "Ao Tanaka",
+    "abbr": "JPN",
+    "pos": "MID",
+    "price": 5,
+    "owned_pct": 1.1,
+    "start_prob": 0.65,
+    "md2_pts": 3
+  },
+  {
+    "id": 798,
+    "name": "Nathan Ake",
+    "abbr": "NED",
+    "pos": "DEF",
+    "price": 5,
+    "owned_pct": 2.4,
+    "start_prob": 0.8,
+    "md2_pts": 3.9
+  },
+  {
+    "id": 1163,
+    "name": "Mortadha Ben Ouanes",
+    "abbr": "TUN",
+    "pos": "MID",
+    "price": 5,
+    "owned_pct": 0.6,
+    "start_prob": 0.45,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 659,
+    "name": "Kaishu Sano",
+    "abbr": "JPN",
+    "pos": "MID",
+    "price": 4.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.5,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 673,
+    "name": "Koki Ogawa",
+    "abbr": "JPN",
+    "pos": "FWD",
+    "price": 4.9,
+    "owned_pct": 0.2,
+    "start_prob": 0.35,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 1126,
+    "name": "Benjamin Nygren",
+    "abbr": "SWE",
+    "pos": "FWD",
+    "price": 4.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.2,
+    "md2_pts": 1
+  },
+  {
+    "id": 1555,
+    "name": "Hannibal Mejbri",
+    "abbr": "TUN",
+    "pos": "MID",
+    "price": 4.8,
+    "owned_pct": 0.2,
+    "start_prob": 0.7,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 2076,
+    "name": "Shuto Machino",
+    "abbr": "JPN",
+    "pos": "FWD",
+    "price": 4.8,
+    "owned_pct": 0,
+    "start_prob": 0.2,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 809,
+    "name": "Bart Verbruggen",
+    "abbr": "NED",
+    "pos": "GK",
+    "price": 4.7,
+    "owned_pct": 3,
+    "start_prob": 0.92,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 1160,
+    "name": "Ellyes Skhiri",
+    "abbr": "TUN",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0,
+    "start_prob": 0.7,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 2036,
+    "name": "Robin Roefs",
+    "abbr": "NED",
+    "pos": "GK",
+    "price": 4.6,
+    "owned_pct": 0.4,
+    "start_prob": 0.08,
+    "md2_pts": 0.4
+  },
+  {
+    "id": 1118,
+    "name": "Daniel Svensson",
+    "abbr": "SWE",
+    "pos": "DEF",
+    "price": 4.5,
+    "owned_pct": 0.4,
+    "start_prob": 0.6,
+    "md2_pts": 2
+  },
+  {
+    "id": 1454,
+    "name": "Ko Itakura",
+    "abbr": "JPN",
+    "pos": "DEF",
+    "price": 4.5,
+    "owned_pct": 0.2,
+    "start_prob": 0.7,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 662,
+    "name": "Yukinari Sugawara",
+    "abbr": "JPN",
+    "pos": "DEF",
+    "price": 4.4,
+    "owned_pct": 0.2,
+    "start_prob": 0.6,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 677,
+    "name": "Zion Suzuki",
+    "abbr": "JPN",
+    "pos": "GK",
+    "price": 4.3,
+    "owned_pct": 2.1,
+    "start_prob": 0.85,
+    "md2_pts": 4.2
+  },
+  {
+    "id": 802,
+    "name": "Jan Paul van Hecke",
+    "abbr": "NED",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 1,
+    "start_prob": 0.2,
+    "md2_pts": 1.1
+  },
+  {
+    "id": 803,
+    "name": "Jorrel Hato",
+    "abbr": "NED",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.3,
+    "start_prob": 0.25,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 1119,
+    "name": "Gabriel Gudmundsson",
+    "abbr": "SWE",
+    "pos": "DEF",
+    "price": 4.2,
+    "owned_pct": 0.5,
+    "start_prob": 0.75,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 1121,
+    "name": "Victor Lindelof",
+    "abbr": "SWE",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 1.5,
+    "start_prob": 0.85,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 1518,
+    "name": "Isak Hien",
+    "abbr": "SWE",
+    "pos": "DEF",
+    "price": 4.1,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 1167,
+    "name": "Omar Rekik",
+    "abbr": "TUN",
+    "pos": "DEF",
+    "price": 3.8,
+    "owned_pct": 0,
+    "start_prob": 0.55,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 665,
+    "name": "Hiroki Ito",
+    "abbr": "JPN",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0.5,
+    "start_prob": 0.55,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 663,
+    "name": "Tsuyoshi Watanabe",
+    "abbr": "JPN",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.2,
+    "start_prob": 0.5,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 1185,
+    "name": "Aymen Dahmen",
+    "abbr": "TUN",
+    "pos": "GK",
+    "price": 3.9,
+    "owned_pct": 0,
+    "start_prob": 0.5,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 1597,
+    "name": "Mohamed Salah",
+    "abbr": "EGY",
+    "pos": "MID",
+    "price": 10,
+    "owned_pct": 4.5,
+    "start_prob": 0.9,
+    "md2_pts": 5.6
+  },
+  {
+    "id": 445,
+    "name": "Omar Marmoush",
+    "abbr": "EGY",
+    "pos": "FWD",
+    "price": 7.8,
+    "owned_pct": 1.8,
+    "start_prob": 0.8,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 125,
+    "name": "Jeremy Doku",
+    "abbr": "BEL",
+    "pos": "MID",
+    "price": 7.5,
+    "owned_pct": 12.3,
+    "start_prob": 0.85,
+    "md2_pts": 4.7
+  },
+  {
+    "id": 138,
+    "name": "Kevin De Bruyne",
+    "abbr": "BEL",
+    "pos": "MID",
+    "price": 7.5,
+    "owned_pct": 5.6,
+    "start_prob": 0.9,
+    "md2_pts": 5
+  },
+  {
+    "id": 124,
+    "name": "Romelu Lukaku",
+    "abbr": "BEL",
+    "pos": "FWD",
+    "price": 7.4,
+    "owned_pct": 1.9,
+    "start_prob": 0.6,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 1526,
+    "name": "Leandro Trossard",
+    "abbr": "BEL",
+    "pos": "MID",
+    "price": 6.6,
+    "owned_pct": 2.2,
+    "start_prob": 0.5,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 1493,
+    "name": "Chris Wood",
+    "abbr": "NZL",
+    "pos": "FWD",
+    "price": 6.5,
+    "owned_pct": 0.6,
+    "start_prob": 0.95,
+    "md2_pts": 3.5
+  },
+  {
+    "id": 137,
+    "name": "Youri Tielemans",
+    "abbr": "BEL",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 1.1,
+    "start_prob": 0.75,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 610,
+    "name": "Mehdi Taremi",
+    "abbr": "IRN",
+    "pos": "FWD",
+    "price": 6.1,
+    "owned_pct": 0.4,
+    "start_prob": 0.9,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 127,
+    "name": "Dodi Lukebakio",
+    "abbr": "BEL",
+    "pos": "FWD",
+    "price": 5.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.35,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 136,
+    "name": "Amadou Onana",
+    "abbr": "BEL",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0.3,
+    "start_prob": 0.7,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 627,
+    "name": "Mohammad Mohebi",
+    "abbr": "IRN",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0,
+    "start_prob": 0.7,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 456,
+    "name": "Ibrahim Adel",
+    "abbr": "EGY",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0,
+    "start_prob": 0.45,
+    "md2_pts": 2
+  },
+  {
+    "id": 129,
+    "name": "Charles De Ketelaere",
+    "abbr": "BEL",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 1.1,
+    "start_prob": 0.55,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 823,
+    "name": "Marko Stamenic",
+    "abbr": "NZL",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.8,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 1524,
+    "name": "Hans Vanaken",
+    "abbr": "BEL",
+    "pos": "MID",
+    "price": 5.5,
+    "owned_pct": 0.1,
+    "start_prob": 0.4,
+    "md2_pts": 2
+  },
+  {
+    "id": 455,
+    "name": "Mohanad Lasheen",
+    "abbr": "EGY",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.7,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 1494,
+    "name": "Sarpreet Singh",
+    "abbr": "NZL",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.7,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 821,
+    "name": "Joe Bell",
+    "abbr": "NZL",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0,
+    "start_prob": 0.8,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 612,
+    "name": "Saman Ghoddos",
+    "abbr": "IRN",
+    "pos": "FWD",
+    "price": 4.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.5,
+    "md2_pts": 1.7
+  },
+  {
+    "id": 1522,
+    "name": "Thibaut Courtois",
+    "abbr": "BEL",
+    "pos": "GK",
+    "price": 4.9,
+    "owned_pct": 12.5,
+    "start_prob": 0.95,
+    "md2_pts": 4.8
+  },
+  {
+    "id": 117,
+    "name": "Thomas Meunier",
+    "abbr": "BEL",
+    "pos": "DEF",
+    "price": 4.8,
+    "owned_pct": 1.1,
+    "start_prob": 0.7,
+    "md2_pts": 4
+  },
+  {
+    "id": 114,
+    "name": "Maxim De Cuyper",
+    "abbr": "BEL",
+    "pos": "DEF",
+    "price": 4.7,
+    "owned_pct": 2.5,
+    "start_prob": 0.7,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 115,
+    "name": "Timothy Castagne",
+    "abbr": "BEL",
+    "pos": "DEF",
+    "price": 4.7,
+    "owned_pct": 0.4,
+    "start_prob": 0.4,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 818,
+    "name": "Callum McCowatt",
+    "abbr": "NZL",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0,
+    "start_prob": 0.65,
+    "md2_pts": 2
+  },
+  {
+    "id": 2069,
+    "name": "Shahriyar Moghanlou",
+    "abbr": "IRN",
+    "pos": "FWD",
+    "price": 4.7,
+    "owned_pct": 0,
+    "start_prob": 0.4,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 435,
+    "name": "Emam Ashour",
+    "abbr": "EGY",
+    "pos": "MID",
+    "price": 4.6,
+    "owned_pct": 1,
+    "start_prob": 0.85,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 620,
+    "name": "Alireza Beiranvand",
+    "abbr": "IRN",
+    "pos": "GK",
+    "price": 4.2,
+    "owned_pct": 0.2,
+    "start_prob": 0.85,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 832,
+    "name": "Elijah Just",
+    "abbr": "NZL",
+    "pos": "MID",
+    "price": 4.2,
+    "owned_pct": 1.2,
+    "start_prob": 0.9,
+    "md2_pts": 3
+  },
+  {
+    "id": 1489,
+    "name": "Liberato Cacace",
+    "abbr": "NZL",
+    "pos": "DEF",
+    "price": 4.1,
+    "owned_pct": 0,
+    "start_prob": 0.8,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 597,
+    "name": "Ramin Rezaeian",
+    "abbr": "IRN",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.7,
+    "start_prob": 0.85,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 434,
+    "name": "Hamdi Fathy",
+    "abbr": "EGY",
+    "pos": "MID",
+    "price": 4.4,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 453,
+    "name": "Mostafa Shobeir",
+    "abbr": "EGY",
+    "pos": "GK",
+    "price": 3.5,
+    "owned_pct": 2,
+    "start_prob": 0.8,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 444,
+    "name": "Yasser Ibrahim",
+    "abbr": "EGY",
+    "pos": "DEF",
+    "price": 3.5,
+    "owned_pct": 0.5,
+    "start_prob": 0.7,
+    "md2_pts": 3
+  },
+  {
+    "id": 437,
+    "name": "Mohamed Abdelmonem",
+    "abbr": "EGY",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.4,
+    "start_prob": 0.7,
+    "md2_pts": 3
+  },
+  {
+    "id": 1488,
+    "name": "Michael Boxall",
+    "abbr": "NZL",
+    "pos": "DEF",
+    "price": 3.7,
+    "owned_pct": 0,
+    "start_prob": 0.75,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 827,
+    "name": "Tim Payne",
+    "abbr": "NZL",
+    "pos": "DEF",
+    "price": 3.6,
+    "owned_pct": 0.4,
+    "start_prob": 0.7,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 123,
+    "name": "Nathan Ngoy",
+    "abbr": "BEL",
+    "pos": "DEF",
+    "price": 3.7,
+    "owned_pct": 0.6,
+    "start_prob": 0.55,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 121,
+    "name": "Brandon Mechele",
+    "abbr": "BEL",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0.2,
+    "start_prob": 0.6,
+    "md2_pts": 2.9
+  },
+  {
+    "id": 116,
+    "name": "Arthur Theate",
+    "abbr": "BEL",
+    "pos": "DEF",
+    "price": 4.5,
+    "owned_pct": 0.2,
+    "start_prob": 0.6,
+    "md2_pts": 3
+  },
+  {
+    "id": 120,
+    "name": "Koni De Winter",
+    "abbr": "BEL",
+    "pos": "DEF",
+    "price": 4.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.55,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 838,
+    "name": "Max Crocombe",
+    "abbr": "NZL",
+    "pos": "GK",
+    "price": 3.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 1492,
+    "name": "Matthew Garbett",
+    "abbr": "NZL",
+    "pos": "FWD",
+    "price": 5,
+    "owned_pct": 0.7,
+    "start_prob": 0.5,
+    "md2_pts": 1.7
+  },
+  {
+    "id": 833,
+    "name": "Ben Waine",
+    "abbr": "NZL",
+    "pos": "FWD",
+    "price": 4.2,
+    "owned_pct": 0,
+    "start_prob": 0.4,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 822,
+    "name": "Ryan Thomas",
+    "abbr": "NZL",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.6,
+    "md2_pts": 2
+  },
+  {
+    "id": 447,
+    "name": "Trezeguet",
+    "abbr": "EGY",
+    "pos": "FWD",
+    "price": 5.6,
+    "owned_pct": 0.1,
+    "start_prob": 0.45,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 135,
+    "name": "Nicolas Raskin",
+    "abbr": "BEL",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0.1,
+    "start_prob": 0.35,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 1099,
+    "name": "Unai Simon",
+    "abbr": "ESP",
+    "pos": "GK",
+    "price": 5,
+    "owned_pct": 7,
+    "start_prob": 0.8,
+    "md2_pts": 4.5
+  },
+  {
+    "id": 1098,
+    "name": "David Raya",
+    "abbr": "ESP",
+    "pos": "GK",
+    "price": 5,
+    "owned_pct": 11.7,
+    "start_prob": 0.2,
+    "md2_pts": 1.1
+  },
+  {
+    "id": 1088,
+    "name": "Marc Cucurella",
+    "abbr": "ESP",
+    "pos": "DEF",
+    "price": 5.1,
+    "owned_pct": 25.5,
+    "start_prob": 0.9,
+    "md2_pts": 5.3
+  },
+  {
+    "id": 1086,
+    "name": "Aymeric Laporte",
+    "abbr": "ESP",
+    "pos": "DEF",
+    "price": 5.5,
+    "owned_pct": 5.3,
+    "start_prob": 0.82,
+    "md2_pts": 4.9
+  },
+  {
+    "id": 1102,
+    "name": "Marcos Llorente",
+    "abbr": "ESP",
+    "pos": "DEF",
+    "price": 5.5,
+    "owned_pct": 5.1,
+    "start_prob": 0.78,
+    "md2_pts": 4.7
+  },
+  {
+    "id": 1089,
+    "name": "Pau Cubarsi",
+    "abbr": "ESP",
+    "pos": "DEF",
+    "price": 5,
+    "owned_pct": 5.8,
+    "start_prob": 0.85,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 1085,
+    "name": "Pedro Porro",
+    "abbr": "ESP",
+    "pos": "DEF",
+    "price": 5.5,
+    "owned_pct": 5.5,
+    "start_prob": 0.3,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 1087,
+    "name": "Alejandro Grimaldo",
+    "abbr": "ESP",
+    "pos": "DEF",
+    "price": 4.9,
+    "owned_pct": 1.2,
+    "start_prob": 0.25,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 1995,
+    "name": "Eric Garcia",
+    "abbr": "ESP",
+    "pos": "DEF",
+    "price": 4.5,
+    "owned_pct": 0.8,
+    "start_prob": 0.2,
+    "md2_pts": 1
+  },
+  {
+    "id": 1092,
+    "name": "Lamine Yamal",
+    "abbr": "ESP",
+    "pos": "MID",
+    "price": 10,
+    "owned_pct": 37.4,
+    "start_prob": 0.85,
+    "md2_pts": 5.6
+  },
+  {
+    "id": 1106,
+    "name": "Pedri",
+    "abbr": "ESP",
+    "pos": "MID",
+    "price": 8.1,
+    "owned_pct": 10,
+    "start_prob": 0.85,
+    "md2_pts": 4
+  },
+  {
+    "id": 1104,
+    "name": "Rodri",
+    "abbr": "ESP",
+    "pos": "MID",
+    "price": 7.5,
+    "owned_pct": 1.9,
+    "start_prob": 0.8,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 1998,
+    "name": "Fabian Ruiz",
+    "abbr": "ESP",
+    "pos": "MID",
+    "price": 6.8,
+    "owned_pct": 1,
+    "start_prob": 0.7,
+    "md2_pts": 3.5
+  },
+  {
+    "id": 1999,
+    "name": "Gavi",
+    "abbr": "ESP",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 1.1,
+    "start_prob": 0.6,
+    "md2_pts": 3.3
+  },
+  {
+    "id": 2000,
+    "name": "Nico Williams",
+    "abbr": "ESP",
+    "pos": "MID",
+    "price": 7.8,
+    "owned_pct": 3,
+    "start_prob": 0.55,
+    "md2_pts": 3.5
+  },
+  {
+    "id": 1105,
+    "name": "Dani Olmo",
+    "abbr": "ESP",
+    "pos": "MID",
+    "price": 7.7,
+    "owned_pct": 2.4,
+    "start_prob": 0.4,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 1997,
+    "name": "Mikel Merino",
+    "abbr": "ESP",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 0.5,
+    "start_prob": 0.4,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 1084,
+    "name": "Martin Zubimendi",
+    "abbr": "ESP",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0.3,
+    "start_prob": 0.3,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 1094,
+    "name": "Mikel Oyarzabal",
+    "abbr": "ESP",
+    "pos": "FWD",
+    "price": 8.1,
+    "owned_pct": 17.6,
+    "start_prob": 0.78,
+    "md2_pts": 4.8
+  },
+  {
+    "id": 1093,
+    "name": "Ferran Torres",
+    "abbr": "ESP",
+    "pos": "FWD",
+    "price": 7.8,
+    "owned_pct": 3.5,
+    "start_prob": 0.62,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 1095,
+    "name": "Borja Iglesias",
+    "abbr": "ESP",
+    "pos": "FWD",
+    "price": 6.8,
+    "owned_pct": 0.1,
+    "start_prob": 0.15,
+    "md2_pts": 1
+  },
+  {
+    "id": 1248,
+    "name": "Federico Valverde",
+    "abbr": "URU",
+    "pos": "MID",
+    "price": 7.5,
+    "owned_pct": 5.2,
+    "start_prob": 0.92,
+    "md2_pts": 4.8
+  },
+  {
+    "id": 1236,
+    "name": "Darwin Nunez",
+    "abbr": "URU",
+    "pos": "FWD",
+    "price": 7.5,
+    "owned_pct": 1.4,
+    "start_prob": 0.85,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 1237,
+    "name": "Federico Vinas",
+    "abbr": "URU",
+    "pos": "FWD",
+    "price": 5.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.6,
+    "md2_pts": 3.3
+  },
+  {
+    "id": 1223,
+    "name": "Maxi Araujo",
+    "abbr": "URU",
+    "pos": "MID",
+    "price": 6.4,
+    "owned_pct": 0.5,
+    "start_prob": 0.72,
+    "md2_pts": 4
+  },
+  {
+    "id": 2064,
+    "name": "Rodrigo Bentancur",
+    "abbr": "URU",
+    "pos": "MID",
+    "price": 6,
+    "owned_pct": 0.2,
+    "start_prob": 0.8,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 1224,
+    "name": "Manuel Ugarte",
+    "abbr": "URU",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0.2,
+    "start_prob": 0.78,
+    "md2_pts": 3.1
+  },
+  {
+    "id": 1247,
+    "name": "Giorgian de Arrascaeta",
+    "abbr": "URU",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 0.2,
+    "start_prob": 0.5,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 1225,
+    "name": "Nicolas de la Cruz",
+    "abbr": "URU",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0,
+    "start_prob": 0.35,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 1238,
+    "name": "Brian Rodriguez",
+    "abbr": "URU",
+    "pos": "FWD",
+    "price": 6.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.3,
+    "md2_pts": 2
+  },
+  {
+    "id": 1229,
+    "name": "Mathias Olivera",
+    "abbr": "URU",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 1.5,
+    "start_prob": 0.8,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 1230,
+    "name": "Guillermo Varela",
+    "abbr": "URU",
+    "pos": "DEF",
+    "price": 4.2,
+    "owned_pct": 0.6,
+    "start_prob": 0.75,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 1231,
+    "name": "Sebastian Caceres",
+    "abbr": "URU",
+    "pos": "DEF",
+    "price": 4.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 3.1
+  },
+  {
+    "id": 1228,
+    "name": "Matias Vina",
+    "abbr": "URU",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.1,
+    "start_prob": 0.55,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 1227,
+    "name": "Jose Maria Gimenez",
+    "abbr": "URU",
+    "pos": "DEF",
+    "price": 4.4,
+    "owned_pct": 1.1,
+    "start_prob": 0.55,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 2063,
+    "name": "Joaquin Piquerez",
+    "abbr": "URU",
+    "pos": "DEF",
+    "price": 4.5,
+    "owned_pct": 0.1,
+    "start_prob": 0.35,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 1245,
+    "name": "Fernando Muslera",
+    "abbr": "URU",
+    "pos": "GK",
+    "price": 4.1,
+    "owned_pct": 0.6,
+    "start_prob": 0.6,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 1244,
+    "name": "Sergio Rochet",
+    "abbr": "URU",
+    "pos": "GK",
+    "price": 4.1,
+    "owned_pct": 3.3,
+    "start_prob": 0.35,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 214,
+    "name": "Vozinha",
+    "abbr": "CPV",
+    "pos": "GK",
+    "price": 3.9,
+    "owned_pct": 1.1,
+    "start_prob": 0.9,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 199,
+    "name": "Steven Moreira",
+    "abbr": "CPV",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.85,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 205,
+    "name": "Diney",
+    "abbr": "CPV",
+    "pos": "DEF",
+    "price": 3.5,
+    "owned_pct": 0.2,
+    "start_prob": 0.8,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 201,
+    "name": "Pico",
+    "abbr": "CPV",
+    "pos": "DEF",
+    "price": 3.7,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 203,
+    "name": "Sidny Cabral",
+    "abbr": "CPV",
+    "pos": "DEF",
+    "price": 3.5,
+    "owned_pct": 0.3,
+    "start_prob": 0.78,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 1530,
+    "name": "Jamiro Monteiro",
+    "abbr": "CPV",
+    "pos": "MID",
+    "price": 4.6,
+    "owned_pct": 0,
+    "start_prob": 0.7,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 206,
+    "name": "Ryan Mendes",
+    "abbr": "CPV",
+    "pos": "FWD",
+    "price": 4.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.65,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 219,
+    "name": "Laros Duarte",
+    "abbr": "CPV",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0,
+    "start_prob": 0.55,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 198,
+    "name": "Kevin Pina",
+    "abbr": "CPV",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0,
+    "start_prob": 0.5,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 1955,
+    "name": "Salem Al Dawsari",
+    "abbr": "KSA",
+    "pos": "MID",
+    "price": 7.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.85,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 978,
+    "name": "Mohamed Kanno",
+    "abbr": "KSA",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0,
+    "start_prob": 0.8,
+    "md2_pts": 2
+  },
+  {
+    "id": 1001,
+    "name": "Mohammed Al Owais",
+    "abbr": "KSA",
+    "pos": "GK",
+    "price": 3.5,
+    "owned_pct": 0.4,
+    "start_prob": 0.6,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 999,
+    "name": "Nawaf Al Aqidi",
+    "abbr": "KSA",
+    "pos": "GK",
+    "price": 4,
+    "owned_pct": 0.2,
+    "start_prob": 0.35,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 984,
+    "name": "Abdulelah Al Amri",
+    "abbr": "KSA",
+    "pos": "DEF",
+    "price": 3.7,
+    "owned_pct": 0.2,
+    "start_prob": 0.85,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 1951,
+    "name": "Hassan Al Tambakti",
+    "abbr": "KSA",
+    "pos": "DEF",
+    "price": 4.5,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 1957,
+    "name": "Nasser Al Dawsari",
+    "abbr": "KSA",
+    "pos": "MID",
+    "price": 5.2,
+    "owned_pct": 0,
+    "start_prob": 0.65,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 992,
+    "name": "Feras Al Brikan",
+    "abbr": "KSA",
+    "pos": "FWD",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.6,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 972,
+    "name": "Musab Al Juwayr",
+    "abbr": "KSA",
+    "pos": "MID",
+    "price": 4.1,
+    "owned_pct": 0.5,
+    "start_prob": 0.5,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 500,
+    "name": "Kylian Mbappe",
+    "abbr": "FRA",
+    "pos": "FWD",
+    "price": 10.5,
+    "owned_pct": 52.8,
+    "start_prob": 0.92,
+    "md2_pts": 6.6
+  },
+  {
+    "id": 855,
+    "name": "Erling Haaland",
+    "abbr": "NOR",
+    "pos": "FWD",
+    "price": 10.5,
+    "owned_pct": 32.4,
+    "start_prob": 0.95,
+    "md2_pts": 6.4
+  },
+  {
+    "id": 501,
+    "name": "Ousmane Dembele",
+    "abbr": "FRA",
+    "pos": "MID",
+    "price": 10,
+    "owned_pct": 16,
+    "start_prob": 0.85,
+    "md2_pts": 4.7
+  },
+  {
+    "id": 517,
+    "name": "Michael Olise",
+    "abbr": "FRA",
+    "pos": "MID",
+    "price": 9.5,
+    "owned_pct": 35.3,
+    "start_prob": 0.85,
+    "md2_pts": 4.9
+  },
+  {
+    "id": 516,
+    "name": "Rayan Cherki",
+    "abbr": "FRA",
+    "pos": "MID",
+    "price": 8,
+    "owned_pct": 6.3,
+    "start_prob": 0.45,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 1431,
+    "name": "Bradley Barcola",
+    "abbr": "FRA",
+    "pos": "MID",
+    "price": 8,
+    "owned_pct": 1.4,
+    "start_prob": 0.5,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 1684,
+    "name": "Martin Odegaard",
+    "abbr": "NOR",
+    "pos": "MID",
+    "price": 7.7,
+    "owned_pct": 4.6,
+    "start_prob": 0.9,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 1696,
+    "name": "Sadio Mane",
+    "abbr": "SEN",
+    "pos": "MID",
+    "price": 7.6,
+    "owned_pct": 1.7,
+    "start_prob": 0.85,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 502,
+    "name": "Marcus Thuram",
+    "abbr": "FRA",
+    "pos": "FWD",
+    "price": 7.5,
+    "owned_pct": 0.5,
+    "start_prob": 0.35,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 505,
+    "name": "Desire Doue",
+    "abbr": "FRA",
+    "pos": "MID",
+    "price": 7.5,
+    "owned_pct": 3.7,
+    "start_prob": 0.65,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 856,
+    "name": "Alexander Sorloth",
+    "abbr": "NOR",
+    "pos": "FWD",
+    "price": 6.8,
+    "owned_pct": 1.2,
+    "start_prob": 0.8,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 1041,
+    "name": "Nicolas Jackson",
+    "abbr": "SEN",
+    "pos": "FWD",
+    "price": 6.7,
+    "owned_pct": 0.4,
+    "start_prob": 0.75,
+    "md2_pts": 3
+  },
+  {
+    "id": 515,
+    "name": "Aurelien Tchouameni",
+    "abbr": "FRA",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 0.9,
+    "start_prob": 0.8,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 1042,
+    "name": "Iliman Ndiaye",
+    "abbr": "SEN",
+    "pos": "FWD",
+    "price": 6.5,
+    "owned_pct": 0.5,
+    "start_prob": 0.65,
+    "md2_pts": 2.9
+  },
+  {
+    "id": 1432,
+    "name": "Jean-Philippe Mateta",
+    "abbr": "FRA",
+    "pos": "FWD",
+    "price": 6.5,
+    "owned_pct": 0.2,
+    "start_prob": 0.3,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 1683,
+    "name": "Fredrik Aursnes",
+    "abbr": "NOR",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 0.2,
+    "start_prob": 0.75,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 510,
+    "name": "Adrien Rabiot",
+    "abbr": "FRA",
+    "pos": "MID",
+    "price": 6.4,
+    "owned_pct": 0.5,
+    "start_prob": 0.8,
+    "md2_pts": 3.8
+  },
+  {
+    "id": 514,
+    "name": "Maghnes Akliouche",
+    "abbr": "FRA",
+    "pos": "MID",
+    "price": 6.4,
+    "owned_pct": 0,
+    "start_prob": 0.2,
+    "md2_pts": 1.1
+  },
+  {
+    "id": 857,
+    "name": "Andreas Schjelderup",
+    "abbr": "NOR",
+    "pos": "FWD",
+    "price": 6.2,
+    "owned_pct": 0.2,
+    "start_prob": 0.4,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 864,
+    "name": "Kristian Thorstvedt",
+    "abbr": "NOR",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 0,
+    "start_prob": 0.4,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 1043,
+    "name": "Ismaila Sarr",
+    "abbr": "SEN",
+    "pos": "FWD",
+    "price": 6.2,
+    "owned_pct": 0.4,
+    "start_prob": 0.75,
+    "md2_pts": 3
+  },
+  {
+    "id": 1055,
+    "name": "Lamine Camara",
+    "abbr": "SEN",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 0,
+    "start_prob": 0.7,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 1056,
+    "name": "Habib Diarra",
+    "abbr": "SEN",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 0,
+    "start_prob": 0.6,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 511,
+    "name": "Warren Zaire-Emery",
+    "abbr": "FRA",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0.3,
+    "start_prob": 0.25,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 512,
+    "name": "Manu Kone",
+    "abbr": "FRA",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0.1,
+    "start_prob": 0.25,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 863,
+    "name": "Antonio Nusa",
+    "abbr": "NOR",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 3,
+    "start_prob": 0.65,
+    "md2_pts": 2.9
+  },
+  {
+    "id": 1054,
+    "name": "Krepin Diatta",
+    "abbr": "SEN",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0,
+    "start_prob": 0.7,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 862,
+    "name": "Jens Petter Hauge",
+    "abbr": "NOR",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.3,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 1032,
+    "name": "Pape Gueye",
+    "abbr": "SEN",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.65,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 656,
+    "name": "Zidane Iqbal",
+    "abbr": "IRQ",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 657,
+    "name": "Ibrahim Bayesh",
+    "abbr": "IRQ",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.6,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 844,
+    "name": "Morten Thorsby",
+    "abbr": "NOR",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.4,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 845,
+    "name": "Patrick Berg",
+    "abbr": "NOR",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0.1,
+    "start_prob": 0.45,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 858,
+    "name": "Jorgen Strand Larsen",
+    "abbr": "NOR",
+    "pos": "FWD",
+    "price": 5.6,
+    "owned_pct": 0.2,
+    "start_prob": 0.35,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 1030,
+    "name": "Pape Matar Sarr",
+    "abbr": "SEN",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0.4,
+    "start_prob": 0.65,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 1430,
+    "name": "Jules Kounde",
+    "abbr": "FRA",
+    "pos": "DEF",
+    "price": 5.4,
+    "owned_pct": 6.9,
+    "start_prob": 0.85,
+    "md2_pts": 4.8
+  },
+  {
+    "id": 494,
+    "name": "Dayot Upamecano",
+    "abbr": "FRA",
+    "pos": "DEF",
+    "price": 5.3,
+    "owned_pct": 4.9,
+    "start_prob": 0.85,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 635,
+    "name": "Amir Al Ammari",
+    "abbr": "IRQ",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.8,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 646,
+    "name": "Aymen Hussein",
+    "abbr": "IRQ",
+    "pos": "FWD",
+    "price": 5.3,
+    "owned_pct": 0.1,
+    "start_prob": 0.85,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 1429,
+    "name": "William Saliba",
+    "abbr": "FRA",
+    "pos": "DEF",
+    "price": 5.3,
+    "owned_pct": 14.6,
+    "start_prob": 0.88,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 496,
+    "name": "Lucas Hernandez",
+    "abbr": "FRA",
+    "pos": "DEF",
+    "price": 5.2,
+    "owned_pct": 2.2,
+    "start_prob": 0.4,
+    "md2_pts": 2
+  },
+  {
+    "id": 499,
+    "name": "Malo Gusto",
+    "abbr": "FRA",
+    "pos": "DEF",
+    "price": 5.1,
+    "owned_pct": 0.5,
+    "start_prob": 0.3,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 509,
+    "name": "NGolo Kante",
+    "abbr": "FRA",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 1.1,
+    "start_prob": 0.3,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 843,
+    "name": "Oscar Bobb",
+    "abbr": "NOR",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0.7,
+    "start_prob": 0.4,
+    "md2_pts": 1.7
+  },
+  {
+    "id": 492,
+    "name": "Theo Hernandez",
+    "abbr": "FRA",
+    "pos": "DEF",
+    "price": 5,
+    "owned_pct": 4.1,
+    "start_prob": 0.8,
+    "md2_pts": 4.3
+  },
+  {
+    "id": 498,
+    "name": "Lucas Digne",
+    "abbr": "FRA",
+    "pos": "DEF",
+    "price": 5,
+    "owned_pct": 0.9,
+    "start_prob": 0.25,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 506,
+    "name": "Mike Maignan",
+    "abbr": "FRA",
+    "pos": "GK",
+    "price": 5,
+    "owned_pct": 9.2,
+    "start_prob": 0.9,
+    "md2_pts": 4.7
+  },
+  {
+    "id": 495,
+    "name": "Ibrahima Konate",
+    "abbr": "FRA",
+    "pos": "DEF",
+    "price": 4.9,
+    "owned_pct": 2,
+    "start_prob": 0.4,
+    "md2_pts": 2
+  },
+  {
+    "id": 648,
+    "name": "Ali Jasim",
+    "abbr": "IRQ",
+    "pos": "FWD",
+    "price": 4.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.65,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 1037,
+    "name": "Kalidou Koulibaly",
+    "abbr": "SEN",
+    "pos": "DEF",
+    "price": 4.9,
+    "owned_pct": 0.7,
+    "start_prob": 0.85,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 1029,
+    "name": "Idrissa Gueye",
+    "abbr": "SEN",
+    "pos": "MID",
+    "price": 4.9,
+    "owned_pct": 0.3,
+    "start_prob": 0.7,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 841,
+    "name": "Sander Berge",
+    "abbr": "NOR",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0.3,
+    "start_prob": 0.65,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 847,
+    "name": "Julian Ryerson",
+    "abbr": "NOR",
+    "pos": "DEF",
+    "price": 4.2,
+    "owned_pct": 6.8,
+    "start_prob": 0.75,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 859,
+    "name": "Orjan Nyland",
+    "abbr": "NOR",
+    "pos": "GK",
+    "price": 4.2,
+    "owned_pct": 2.3,
+    "start_prob": 0.85,
+    "md2_pts": 3
+  },
+  {
+    "id": 849,
+    "name": "Leo Ostigard",
+    "abbr": "NOR",
+    "pos": "DEF",
+    "price": 4.1,
+    "owned_pct": 0.7,
+    "start_prob": 0.78,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 850,
+    "name": "David Moller Wolfe",
+    "abbr": "NOR",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 1.7,
+    "start_prob": 0.8,
+    "md2_pts": 3.3
+  },
+  {
+    "id": 1051,
+    "name": "Edouard Mendy",
+    "abbr": "SEN",
+    "pos": "GK",
+    "price": 4.5,
+    "owned_pct": 1.1,
+    "start_prob": 0.9,
+    "md2_pts": 3
+  },
+  {
+    "id": 1049,
+    "name": "Ibrahim Mbaye",
+    "abbr": "SEN",
+    "pos": "FWD",
+    "price": 4.4,
+    "owned_pct": 0.2,
+    "start_prob": 0.4,
+    "md2_pts": 2
+  },
+  {
+    "id": 846,
+    "name": "Kristoffer Ajer",
+    "abbr": "NOR",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.7,
+    "start_prob": 0.7,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 848,
+    "name": "Marcus Pedersen",
+    "abbr": "NOR",
+    "pos": "DEF",
+    "price": 4.1,
+    "owned_pct": 0.1,
+    "start_prob": 0.35,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 1035,
+    "name": "El Hadji Malick Diouf",
+    "abbr": "SEN",
+    "pos": "DEF",
+    "price": 4.1,
+    "owned_pct": 0.7,
+    "start_prob": 0.7,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 852,
+    "name": "Torbjorn Heggem",
+    "abbr": "NOR",
+    "pos": "DEF",
+    "price": 3.7,
+    "owned_pct": 0.3,
+    "start_prob": 0.6,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 1034,
+    "name": "Moussa Niakhate",
+    "abbr": "SEN",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 2
+  },
+  {
+    "id": 1033,
+    "name": "Mamadou Sarr",
+    "abbr": "SEN",
+    "pos": "DEF",
+    "price": 4.7,
+    "owned_pct": 0.3,
+    "start_prob": 0.55,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 38,
+    "name": "Lionel Messi",
+    "abbr": "ARG",
+    "pos": "FWD",
+    "price": 10,
+    "owned_pct": 22.2,
+    "start_prob": 0.95,
+    "md2_pts": 6.6
+  },
+  {
+    "id": 1338,
+    "name": "Lautaro Martinez",
+    "abbr": "ARG",
+    "pos": "FWD",
+    "price": 8.8,
+    "owned_pct": 3.4,
+    "start_prob": 0.82,
+    "md2_pts": 3.9
+  },
+  {
+    "id": 39,
+    "name": "Julian Alvarez",
+    "abbr": "ARG",
+    "pos": "FWD",
+    "price": 8.6,
+    "owned_pct": 13.5,
+    "start_prob": 0.45,
+    "md2_pts": 2.1
+  },
+  {
+    "id": 57,
+    "name": "Enzo Fernandez",
+    "abbr": "ARG",
+    "pos": "MID",
+    "price": 7.5,
+    "owned_pct": 3.2,
+    "start_prob": 0.85,
+    "md2_pts": 4.2
+  },
+  {
+    "id": 56,
+    "name": "Alexis Mac Allister",
+    "abbr": "ARG",
+    "pos": "MID",
+    "price": 6.6,
+    "owned_pct": 3.6,
+    "start_prob": 0.85,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 50,
+    "name": "Rodrigo De Paul",
+    "abbr": "ARG",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 1.6,
+    "start_prob": 0.85,
+    "md2_pts": 4.3
+  },
+  {
+    "id": 55,
+    "name": "Thiago Almada",
+    "abbr": "ARG",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 0.3,
+    "start_prob": 0.55,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 51,
+    "name": "Nico Paz",
+    "abbr": "ARG",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 1.3,
+    "start_prob": 0.3,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 42,
+    "name": "Nico Gonzalez",
+    "abbr": "ARG",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0.2,
+    "start_prob": 0.3,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 41,
+    "name": "Giuliano Simeone",
+    "abbr": "ARG",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0.8,
+    "start_prob": 0.45,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 45,
+    "name": "Emiliano Martinez",
+    "abbr": "ARG",
+    "pos": "GK",
+    "price": 5,
+    "owned_pct": 23.1,
+    "start_prob": 0.95,
+    "md2_pts": 5
+  },
+  {
+    "id": 28,
+    "name": "Cristian Romero",
+    "abbr": "ARG",
+    "pos": "DEF",
+    "price": 4.9,
+    "owned_pct": 6.1,
+    "start_prob": 0.9,
+    "md2_pts": 5.4
+  },
+  {
+    "id": 1318,
+    "name": "Lisandro Martinez",
+    "abbr": "ARG",
+    "pos": "DEF",
+    "price": 4.6,
+    "owned_pct": 3.4,
+    "start_prob": 0.82,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 1320,
+    "name": "Facundo Medina",
+    "abbr": "ARG",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 1,
+    "start_prob": 0.6,
+    "md2_pts": 3.3
+  },
+  {
+    "id": 31,
+    "name": "Nicolas Otamendi",
+    "abbr": "ARG",
+    "pos": "DEF",
+    "price": 4.4,
+    "owned_pct": 2.3,
+    "start_prob": 0.45,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 30,
+    "name": "Nahuel Molina",
+    "abbr": "ARG",
+    "pos": "DEF",
+    "price": 4.4,
+    "owned_pct": 3,
+    "start_prob": 0.5,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 34,
+    "name": "Nicolas Tagliafico",
+    "abbr": "ARG",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 1.1,
+    "start_prob": 0.5,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 1323,
+    "name": "Gonzalo Montiel",
+    "abbr": "ARG",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.3,
+    "start_prob": 0.45,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 95,
+    "name": "Marko Arnautovic",
+    "abbr": "AUT",
+    "pos": "FWD",
+    "price": 6,
+    "owned_pct": 0.5,
+    "start_prob": 0.55,
+    "md2_pts": 2.1
+  },
+  {
+    "id": 108,
+    "name": "Romano Schmid",
+    "abbr": "AUT",
+    "pos": "MID",
+    "price": 6,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 107,
+    "name": "Marcel Sabitzer",
+    "abbr": "AUT",
+    "pos": "MID",
+    "price": 6.8,
+    "owned_pct": 3.1,
+    "start_prob": 0.85,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 111,
+    "name": "Xaver Schlager",
+    "abbr": "AUT",
+    "pos": "MID",
+    "price": 5.5,
+    "owned_pct": 0,
+    "start_prob": 0.7,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 103,
+    "name": "Konrad Laimer",
+    "abbr": "AUT",
+    "pos": "MID",
+    "price": 5.8,
+    "owned_pct": 0.3,
+    "start_prob": 0.8,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 106,
+    "name": "Nicolas Seiwald",
+    "abbr": "AUT",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.8,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 110,
+    "name": "Paul Wanner",
+    "abbr": "AUT",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.7,
+    "md2_pts": 2.1
+  },
+  {
+    "id": 109,
+    "name": "Patrick Wimmer",
+    "abbr": "AUT",
+    "pos": "MID",
+    "price": 6,
+    "owned_pct": 0.1,
+    "start_prob": 0.65,
+    "md2_pts": 2
+  },
+  {
+    "id": 102,
+    "name": "Carney Chukwuemeka",
+    "abbr": "AUT",
+    "pos": "MID",
+    "price": 5,
+    "owned_pct": 0.9,
+    "start_prob": 0.6,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 98,
+    "name": "Alexander Schlager",
+    "abbr": "AUT",
+    "pos": "GK",
+    "price": 4.6,
+    "owned_pct": 0.5,
+    "start_prob": 0.85,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 85,
+    "name": "David Alaba",
+    "abbr": "AUT",
+    "pos": "DEF",
+    "price": 4.6,
+    "owned_pct": 2,
+    "start_prob": 0.5,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 88,
+    "name": "Kevin Danso",
+    "abbr": "AUT",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.4,
+    "start_prob": 0.8,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 86,
+    "name": "Philipp Lienhart",
+    "abbr": "AUT",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.2,
+    "start_prob": 0.75,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 90,
+    "name": "Stefan Posch",
+    "abbr": "AUT",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.2,
+    "start_prob": 0.75,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 11,
+    "name": "Riyad Mahrez",
+    "abbr": "ALG",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 0.7,
+    "start_prob": 0.85,
+    "md2_pts": 4.1
+  },
+  {
+    "id": 10,
+    "name": "Amine Gouiri",
+    "abbr": "ALG",
+    "pos": "FWD",
+    "price": 6.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 3.3
+  },
+  {
+    "id": 9,
+    "name": "Mohammed Amoura",
+    "abbr": "ALG",
+    "pos": "FWD",
+    "price": 6.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 27,
+    "name": "Fares Chaibi",
+    "abbr": "ALG",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 0,
+    "start_prob": 0.6,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 26,
+    "name": "Houssem Aouar",
+    "abbr": "ALG",
+    "pos": "MID",
+    "price": 6,
+    "owned_pct": 0.2,
+    "start_prob": 0.55,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 12,
+    "name": "Ibrahim Maza",
+    "abbr": "ALG",
+    "pos": "FWD",
+    "price": 5.4,
+    "owned_pct": 0.2,
+    "start_prob": 0.5,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 13,
+    "name": "Anis Hadj Moussa",
+    "abbr": "ALG",
+    "pos": "FWD",
+    "price": 5.3,
+    "owned_pct": 0.1,
+    "start_prob": 0.5,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 1,
+    "name": "Rayan Ait-Nouri",
+    "abbr": "ALG",
+    "pos": "DEF",
+    "price": 4.9,
+    "owned_pct": 1.2,
+    "start_prob": 0.8,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 2,
+    "name": "Ramy Bensebaini",
+    "abbr": "ALG",
+    "pos": "DEF",
+    "price": 4.4,
+    "owned_pct": 0.2,
+    "start_prob": 0.7,
+    "md2_pts": 3
+  },
+  {
+    "id": 18,
+    "name": "Luca Zidane",
+    "abbr": "ALG",
+    "pos": "GK",
+    "price": 3.8,
+    "owned_pct": 1.2,
+    "start_prob": 0.7,
+    "md2_pts": 3.2
+  },
+  {
+    "id": 21,
+    "name": "Adil Boulbina",
+    "abbr": "ALG",
+    "pos": "MID",
+    "price": 4,
+    "owned_pct": 2.5,
+    "start_prob": 0.35,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 7,
+    "name": "Rafik Belghali",
+    "abbr": "ALG",
+    "pos": "DEF",
+    "price": 3.5,
+    "owned_pct": 1.7,
+    "start_prob": 0.55,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 1547,
+    "name": "Ali Olwan",
+    "abbr": "JOR",
+    "pos": "FWD",
+    "price": 4.2,
+    "owned_pct": 0.2,
+    "start_prob": 0.85,
+    "md2_pts": 2.9
+  },
+  {
+    "id": 688,
+    "name": "Noor Al Rawabdeh",
+    "abbr": "JOR",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0,
+    "start_prob": 0.8,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 701,
+    "name": "Mousa Al Tamari",
+    "abbr": "JOR",
+    "pos": "FWD",
+    "price": 5.6,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 689,
+    "name": "Nizar Al Rashdan",
+    "abbr": "JOR",
+    "pos": "MID",
+    "price": 4.9,
+    "owned_pct": 0,
+    "start_prob": 0.8,
+    "md2_pts": 2.1
+  },
+  {
+    "id": 687,
+    "name": "Mohammad Al Daoud",
+    "abbr": "JOR",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0,
+    "start_prob": 0.7,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 709,
+    "name": "Yazeed Abulaila",
+    "abbr": "JOR",
+    "pos": "GK",
+    "price": 3.9,
+    "owned_pct": 0,
+    "start_prob": 0.85,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 690,
+    "name": "Yazan Al Arab",
+    "abbr": "JOR",
+    "pos": "DEF",
+    "price": 3.7,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 939,
+    "name": "Bruno Fernandes",
+    "abbr": "POR",
+    "pos": "MID",
+    "price": 8.5,
+    "owned_pct": 48.1,
+    "start_prob": 0.95,
+    "md2_pts": 6
+  },
+  {
+    "id": 1573,
+    "name": "Cristiano Ronaldo",
+    "abbr": "POR",
+    "pos": "FWD",
+    "price": 10,
+    "owned_pct": 10.5,
+    "start_prob": 0.85,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 256,
+    "name": "Luis Diaz",
+    "abbr": "COL",
+    "pos": "MID",
+    "price": 8.1,
+    "owned_pct": 18.1,
+    "start_prob": 0.96,
+    "md2_pts": 6
+  },
+  {
+    "id": 1572,
+    "name": "Bernardo Silva",
+    "abbr": "POR",
+    "pos": "MID",
+    "price": 7.8,
+    "owned_pct": 2.2,
+    "start_prob": 0.6,
+    "md2_pts": 2.9
+  },
+  {
+    "id": 1574,
+    "name": "Rafael Leao",
+    "abbr": "POR",
+    "pos": "MID",
+    "price": 7.8,
+    "owned_pct": 1.7,
+    "start_prob": 0.75,
+    "md2_pts": 3.8
+  },
+  {
+    "id": 923,
+    "name": "Goncalo Ramos",
+    "abbr": "POR",
+    "pos": "FWD",
+    "price": 7.5,
+    "owned_pct": 0.7,
+    "start_prob": 0.2,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 270,
+    "name": "James Rodriguez",
+    "abbr": "COL",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 4.4,
+    "start_prob": 0.85,
+    "md2_pts": 4.3
+  },
+  {
+    "id": 283,
+    "name": "Cedric Bakambu",
+    "abbr": "COD",
+    "pos": "FWD",
+    "price": 6.5,
+    "owned_pct": 0,
+    "start_prob": 0.7,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 924,
+    "name": "Joao Felix",
+    "abbr": "POR",
+    "pos": "FWD",
+    "price": 6.5,
+    "owned_pct": 1.9,
+    "start_prob": 0.3,
+    "md2_pts": 1.7
+  },
+  {
+    "id": 937,
+    "name": "Joao Neves",
+    "abbr": "POR",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 5.1,
+    "start_prob": 0.9,
+    "md2_pts": 5.2
+  },
+  {
+    "id": 1306,
+    "name": "Eldor Shomurodov",
+    "abbr": "UZB",
+    "pos": "FWD",
+    "price": 6.5,
+    "owned_pct": 0.1,
+    "start_prob": 0.9,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 925,
+    "name": "Pedro Neto",
+    "abbr": "POR",
+    "pos": "MID",
+    "price": 6.4,
+    "owned_pct": 0.8,
+    "start_prob": 0.55,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 936,
+    "name": "Vitinha",
+    "abbr": "POR",
+    "pos": "MID",
+    "price": 6.4,
+    "owned_pct": 11.5,
+    "start_prob": 0.92,
+    "md2_pts": 4
+  },
+  {
+    "id": 269,
+    "name": "Jhon Arias",
+    "abbr": "COL",
+    "pos": "MID",
+    "price": 6.3,
+    "owned_pct": 0.4,
+    "start_prob": 0.6,
+    "md2_pts": 3
+  },
+  {
+    "id": 1396,
+    "name": "Cucho Hernandez",
+    "abbr": "COL",
+    "pos": "FWD",
+    "price": 6.3,
+    "owned_pct": 0.3,
+    "start_prob": 0.6,
+    "md2_pts": 3
+  },
+  {
+    "id": 281,
+    "name": "Yoane Wissa",
+    "abbr": "COD",
+    "pos": "FWD",
+    "price": 6.2,
+    "owned_pct": 0.2,
+    "start_prob": 0.9,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 297,
+    "name": "Theo Bongonda",
+    "abbr": "COD",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 0,
+    "start_prob": 0.55,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 1292,
+    "name": "Abbosbek Fayzullaev",
+    "abbr": "UZB",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 0,
+    "start_prob": 0.92,
+    "md2_pts": 3
+  },
+  {
+    "id": 257,
+    "name": "Jhon Cordoba",
+    "abbr": "COL",
+    "pos": "FWD",
+    "price": 6.1,
+    "owned_pct": 0.1,
+    "start_prob": 0.5,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 271,
+    "name": "Jorge Carrascal",
+    "abbr": "COL",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0.1,
+    "start_prob": 0.35,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 935,
+    "name": "Matheus Nunes",
+    "abbr": "POR",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0.1,
+    "start_prob": 0.25,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 1307,
+    "name": "Igor Sergeev",
+    "abbr": "UZB",
+    "pos": "FWD",
+    "price": 6.1,
+    "owned_pct": 0,
+    "start_prob": 0.35,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 926,
+    "name": "Trincao",
+    "abbr": "POR",
+    "pos": "FWD",
+    "price": 5.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.25,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 934,
+    "name": "Ruben Neves",
+    "abbr": "POR",
+    "pos": "MID",
+    "price": 5.9,
+    "owned_pct": 0.3,
+    "start_prob": 0.2,
+    "md2_pts": 1.1
+  },
+  {
+    "id": 916,
+    "name": "Nuno Mendes",
+    "abbr": "POR",
+    "pos": "DEF",
+    "price": 5.8,
+    "owned_pct": 40.1,
+    "start_prob": 0.9,
+    "md2_pts": 5.2
+  },
+  {
+    "id": 927,
+    "name": "Goncalo Guedes",
+    "abbr": "POR",
+    "pos": "FWD",
+    "price": 5.8,
+    "owned_pct": 0.1,
+    "start_prob": 0.15,
+    "md2_pts": 0.9
+  },
+  {
+    "id": 259,
+    "name": "Luis Suarez",
+    "abbr": "COL",
+    "pos": "FWD",
+    "price": 5.7,
+    "owned_pct": 2.2,
+    "start_prob": 0.45,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 928,
+    "name": "Francisco Conceicao",
+    "abbr": "POR",
+    "pos": "MID",
+    "price": 5.7,
+    "owned_pct": 0.3,
+    "start_prob": 0.45,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 1290,
+    "name": "Jamshid Iskanderov",
+    "abbr": "UZB",
+    "pos": "MID",
+    "price": 5.7,
+    "owned_pct": 0,
+    "start_prob": 0.55,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 267,
+    "name": "Juan Fernando Quintero",
+    "abbr": "COL",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0.1,
+    "start_prob": 0.4,
+    "md2_pts": 2.1
+  },
+  {
+    "id": 282,
+    "name": "Simon Banza",
+    "abbr": "COD",
+    "pos": "FWD",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.3,
+    "md2_pts": 1.4
+  },
+  {
+    "id": 296,
+    "name": "Edo Kayembe",
+    "abbr": "COD",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.8,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 915,
+    "name": "Samu Costa",
+    "abbr": "POR",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.15,
+    "md2_pts": 0.9
+  },
+  {
+    "id": 1289,
+    "name": "Oston Urunov",
+    "abbr": "UZB",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.45,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 268,
+    "name": "Jaminton Campaz",
+    "abbr": "COL",
+    "pos": "MID",
+    "price": 5.5,
+    "owned_pct": 0,
+    "start_prob": 0.45,
+    "md2_pts": 2.9
+  },
+  {
+    "id": 266,
+    "name": "Gustavo Puerta",
+    "abbr": "COL",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 3.1
+  },
+  {
+    "id": 294,
+    "name": "Noah Sadiki",
+    "abbr": "COD",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 295,
+    "name": "Charles Pickel",
+    "abbr": "COD",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.6,
+    "md2_pts": 2
+  },
+  {
+    "id": 917,
+    "name": "Joao Cancelo",
+    "abbr": "POR",
+    "pos": "DEF",
+    "price": 5.3,
+    "owned_pct": 7.8,
+    "start_prob": 0.8,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 1287,
+    "name": "Aziz Ganiev",
+    "abbr": "UZB",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.45,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 1288,
+    "name": "Odiljon Hamrobekov",
+    "abbr": "UZB",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.6,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 293,
+    "name": "Samuel Moutoussamy",
+    "abbr": "COD",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0,
+    "start_prob": 0.55,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 1286,
+    "name": "Dostonbek Khamdamov",
+    "abbr": "UZB",
+    "pos": "MID",
+    "price": 5.1,
+    "owned_pct": 0,
+    "start_prob": 0.4,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 918,
+    "name": "Diogo Dalot",
+    "abbr": "POR",
+    "pos": "DEF",
+    "price": 5,
+    "owned_pct": 2.3,
+    "start_prob": 0.35,
+    "md2_pts": 2
+  },
+  {
+    "id": 1284,
+    "name": "Otabek Shukurov",
+    "abbr": "UZB",
+    "pos": "MID",
+    "price": 5,
+    "owned_pct": 0.6,
+    "start_prob": 0.6,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 1570,
+    "name": "Ruben Dias",
+    "abbr": "POR",
+    "pos": "DEF",
+    "price": 5,
+    "owned_pct": 5.3,
+    "start_prob": 0.9,
+    "md2_pts": 5
+  },
+  {
+    "id": 248,
+    "name": "Daniel Munoz",
+    "abbr": "COL",
+    "pos": "DEF",
+    "price": 4.6,
+    "owned_pct": 7.4,
+    "start_prob": 0.92,
+    "md2_pts": 4.7
+  },
+  {
+    "id": 919,
+    "name": "Goncalo Inacio",
+    "abbr": "POR",
+    "pos": "DEF",
+    "price": 4.6,
+    "owned_pct": 1.2,
+    "start_prob": 0.55,
+    "md2_pts": 3
+  },
+  {
+    "id": 262,
+    "name": "Camilo Vargas",
+    "abbr": "COL",
+    "pos": "GK",
+    "price": 4.3,
+    "owned_pct": 4.3,
+    "start_prob": 0.85,
+    "md2_pts": 3.8
+  },
+  {
+    "id": 1569,
+    "name": "Diogo Costa",
+    "abbr": "POR",
+    "pos": "GK",
+    "price": 4.9,
+    "owned_pct": 9.5,
+    "start_prob": 0.95,
+    "md2_pts": 4.6
+  },
+  {
+    "id": 252,
+    "name": "Johan Mojica",
+    "abbr": "COL",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 4.3,
+    "start_prob": 0.75,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 273,
+    "name": "Arthur Masuaku",
+    "abbr": "COD",
+    "pos": "DEF",
+    "price": 4.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.85,
+    "md2_pts": 2.5
+  },
+  {
+    "id": 274,
+    "name": "Chancel Mbemba",
+    "abbr": "COD",
+    "pos": "DEF",
+    "price": 4.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.85,
+    "md2_pts": 2
+  },
+  {
+    "id": 272,
+    "name": "Aaron Wan-Bissaka",
+    "abbr": "COD",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.7,
+    "start_prob": 0.8,
+    "md2_pts": 2
+  },
+  {
+    "id": 250,
+    "name": "Davinson Sanchez",
+    "abbr": "COL",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 1.4,
+    "start_prob": 0.85,
+    "md2_pts": 3.7
+  },
+  {
+    "id": 249,
+    "name": "Jhon Lucumi",
+    "abbr": "COL",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.2,
+    "start_prob": 0.8,
+    "md2_pts": 3.5
+  },
+  {
+    "id": 921,
+    "name": "Renato Veiga",
+    "abbr": "POR",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.2,
+    "start_prob": 0.5,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 1571,
+    "name": "Nelson Semedo",
+    "abbr": "POR",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.2,
+    "start_prob": 0.45,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 1293,
+    "name": "Abdukodir Khusanov",
+    "abbr": "UZB",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.8,
+    "start_prob": 0.8,
+    "md2_pts": 0.9
+  },
+  {
+    "id": 1374,
+    "name": "Yerry Mina",
+    "abbr": "COL",
+    "pos": "DEF",
+    "price": 4.2,
+    "owned_pct": 0.3,
+    "start_prob": 0.4,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 252000,
+    "name": "Deiver Machado",
+    "abbr": "COL",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.3,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 265,
+    "name": "Jefferson Lerma",
+    "abbr": "COL",
+    "pos": "MID",
+    "price": 4.9,
+    "owned_pct": 0.2,
+    "start_prob": 0.7,
+    "md2_pts": 2.6
+  },
+  {
+    "id": 247,
+    "name": "Richard Rios",
+    "abbr": "COL",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0.6,
+    "start_prob": 0.7,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 246,
+    "name": "Kevin Castano",
+    "abbr": "COL",
+    "pos": "MID",
+    "price": 4.3,
+    "owned_pct": 0.2,
+    "start_prob": 0.5,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 289,
+    "name": "Lionel Mpasi",
+    "abbr": "COD",
+    "pos": "GK",
+    "price": 4,
+    "owned_pct": 0.2,
+    "start_prob": 0.85,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 275,
+    "name": "Axel Tuanzebe",
+    "abbr": "COD",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.3,
+    "start_prob": 0.6,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 1556,
+    "name": "Gedeon Kalulu",
+    "abbr": "COD",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0,
+    "start_prob": 0.55,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 931,
+    "name": "Rui Silva",
+    "abbr": "POR",
+    "pos": "GK",
+    "price": 4.7,
+    "owned_pct": 0.7,
+    "start_prob": 0.05,
+    "md2_pts": 0.3
+  },
+  {
+    "id": 468,
+    "name": "Harry Kane",
+    "abbr": "ENG",
+    "pos": "FWD",
+    "price": 10.5,
+    "owned_pct": 36.8,
+    "start_prob": 0.95,
+    "md2_pts": 6.6
+  },
+  {
+    "id": 469,
+    "name": "Bukayo Saka",
+    "abbr": "ENG",
+    "pos": "MID",
+    "price": 9.5,
+    "owned_pct": 4.8,
+    "start_prob": 0.85,
+    "md2_pts": 5
+  },
+  {
+    "id": 491,
+    "name": "Jude Bellingham",
+    "abbr": "ENG",
+    "pos": "MID",
+    "price": 8.3,
+    "owned_pct": 10.3,
+    "start_prob": 0.9,
+    "md2_pts": 5.4
+  },
+  {
+    "id": 1710,
+    "name": "Eberechi Eze",
+    "abbr": "ENG",
+    "pos": "MID",
+    "price": 8,
+    "owned_pct": 1.2,
+    "start_prob": 0.4,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 1711,
+    "name": "Ollie Watkins",
+    "abbr": "ENG",
+    "pos": "FWD",
+    "price": 7.9,
+    "owned_pct": 1.1,
+    "start_prob": 0.1,
+    "md2_pts": 0.5
+  },
+  {
+    "id": 471,
+    "name": "Marcus Rashford",
+    "abbr": "ENG",
+    "pos": "MID",
+    "price": 7.5,
+    "owned_pct": 2.1,
+    "start_prob": 0.65,
+    "md2_pts": 3.7
+  },
+  {
+    "id": 475,
+    "name": "Morgan Rogers",
+    "abbr": "ENG",
+    "pos": "MID",
+    "price": 7.2,
+    "owned_pct": 0.7,
+    "start_prob": 0.2,
+    "md2_pts": 0.9
+  },
+  {
+    "id": 1992,
+    "name": "Antoine Semenyo",
+    "abbr": "GHA",
+    "pos": "FWD",
+    "price": 7.2,
+    "owned_pct": 3.3,
+    "start_prob": 0.9,
+    "md2_pts": 2.8
+  },
+  {
+    "id": 474,
+    "name": "Anthony Gordon",
+    "abbr": "ENG",
+    "pos": "MID",
+    "price": 7,
+    "owned_pct": 1.7,
+    "start_prob": 0.35,
+    "md2_pts": 1.7
+  },
+  {
+    "id": 488,
+    "name": "Declan Rice",
+    "abbr": "ENG",
+    "pos": "MID",
+    "price": 7,
+    "owned_pct": 7.5,
+    "start_prob": 0.92,
+    "md2_pts": 4.4
+  },
+  {
+    "id": 332,
+    "name": "Ante Budimir",
+    "abbr": "CRO",
+    "pos": "FWD",
+    "price": 6.8,
+    "owned_pct": 0.2,
+    "start_prob": 0.2,
+    "md2_pts": 1.1
+  },
+  {
+    "id": 348,
+    "name": "Martin Baturina",
+    "abbr": "CRO",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 0.4,
+    "start_prob": 0.8,
+    "md2_pts": 4.5
+  },
+  {
+    "id": 486,
+    "name": "Elliot Anderson",
+    "abbr": "ENG",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 0.9,
+    "start_prob": 0.5,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 887,
+    "name": "Adalberto Carrasquilla",
+    "abbr": "PAN",
+    "pos": "MID",
+    "price": 6.5,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 347,
+    "name": "Mario Pasalic",
+    "abbr": "CRO",
+    "pos": "MID",
+    "price": 6.4,
+    "owned_pct": 0.1,
+    "start_prob": 0.45,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 333,
+    "name": "Andrej Kramaric",
+    "abbr": "CRO",
+    "pos": "FWD",
+    "price": 6.2,
+    "owned_pct": 0.2,
+    "start_prob": 0.35,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 346,
+    "name": "Luka Modric",
+    "abbr": "CRO",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 2.8,
+    "start_prob": 0.8,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 1983,
+    "name": "Thomas Partey",
+    "abbr": "GHA",
+    "pos": "MID",
+    "price": 6.2,
+    "owned_pct": 0.1,
+    "start_prob": 0.85,
+    "md2_pts": 2
+  },
+  {
+    "id": 345,
+    "name": "Nikola Vlasic",
+    "abbr": "CRO",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0,
+    "start_prob": 0.4,
+    "md2_pts": 2
+  },
+  {
+    "id": 476,
+    "name": "Noni Madueke",
+    "abbr": "ENG",
+    "pos": "FWD",
+    "price": 6.1,
+    "owned_pct": 0.3,
+    "start_prob": 0.25,
+    "md2_pts": 1.3
+  },
+  {
+    "id": 485,
+    "name": "Kobbie Mainoo",
+    "abbr": "ENG",
+    "pos": "MID",
+    "price": 6.1,
+    "owned_pct": 0.5,
+    "start_prob": 0.3,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 1537,
+    "name": "Mateo Kovacic",
+    "abbr": "CRO",
+    "pos": "MID",
+    "price": 6,
+    "owned_pct": 0.3,
+    "start_prob": 0.6,
+    "md2_pts": 2.7
+  },
+  {
+    "id": 1987,
+    "name": "Inaki Williams",
+    "abbr": "GHA",
+    "pos": "FWD",
+    "price": 5.9,
+    "owned_pct": 0.3,
+    "start_prob": 0.75,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 867,
+    "name": "Yoel Barcenas",
+    "abbr": "PAN",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.55,
+    "md2_pts": 1.9
+  },
+  {
+    "id": 868,
+    "name": "Jose Luis Rodriguez",
+    "abbr": "PAN",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.6,
+    "md2_pts": 2
+  },
+  {
+    "id": 869,
+    "name": "Anibal Godoy",
+    "abbr": "PAN",
+    "pos": "MID",
+    "price": 5.6,
+    "owned_pct": 0,
+    "start_prob": 0.7,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 334,
+    "name": "Ivan Perisic",
+    "abbr": "CRO",
+    "pos": "FWD",
+    "price": 5.4,
+    "owned_pct": 0.6,
+    "start_prob": 0.75,
+    "md2_pts": 3.6
+  },
+  {
+    "id": 866,
+    "name": "Cristian Martinez",
+    "abbr": "PAN",
+    "pos": "MID",
+    "price": 5.3,
+    "owned_pct": 0,
+    "start_prob": 0.65,
+    "md2_pts": 2.1
+  },
+  {
+    "id": 1986,
+    "name": "Jordan Ayew",
+    "abbr": "GHA",
+    "pos": "FWD",
+    "price": 5.3,
+    "owned_pct": 0.1,
+    "start_prob": 0.7,
+    "md2_pts": 2
+  },
+  {
+    "id": 1709,
+    "name": "Reece James",
+    "abbr": "ENG",
+    "pos": "DEF",
+    "price": 5.2,
+    "owned_pct": 4.4,
+    "start_prob": 0.65,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 336,
+    "name": "Petar Musa",
+    "abbr": "CRO",
+    "pos": "FWD",
+    "price": 5.1,
+    "owned_pct": 0.3,
+    "start_prob": 0.85,
+    "md2_pts": 4
+  },
+  {
+    "id": 461,
+    "name": "Marc Guehi",
+    "abbr": "ENG",
+    "pos": "DEF",
+    "price": 5.1,
+    "owned_pct": 6.7,
+    "start_prob": 0.85,
+    "md2_pts": 4.2
+  },
+  {
+    "id": 1993,
+    "name": "Brandon Thomas-Asante",
+    "abbr": "GHA",
+    "pos": "FWD",
+    "price": 5.1,
+    "owned_pct": 0,
+    "start_prob": 0.3,
+    "md2_pts": 1
+  },
+  {
+    "id": 870,
+    "name": "Amir Murillo",
+    "abbr": "PAN",
+    "pos": "DEF",
+    "price": 5,
+    "owned_pct": 1,
+    "start_prob": 0.8,
+    "md2_pts": 2.2
+  },
+  {
+    "id": 881,
+    "name": "Cecilio Waterman",
+    "abbr": "PAN",
+    "pos": "FWD",
+    "price": 5,
+    "owned_pct": 0.8,
+    "start_prob": 0.55,
+    "md2_pts": 1.7
+  },
+  {
+    "id": 1536,
+    "name": "Josko Gvardiol",
+    "abbr": "CRO",
+    "pos": "DEF",
+    "price": 5,
+    "owned_pct": 4.8,
+    "start_prob": 0.85,
+    "md2_pts": 3.7
+  },
+  {
+    "id": 1988,
+    "name": "Ernest Nuamah",
+    "abbr": "GHA",
+    "pos": "MID",
+    "price": 5,
+    "owned_pct": 0.7,
+    "start_prob": 0.5,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 341,
+    "name": "Luka Sucic",
+    "abbr": "CRO",
+    "pos": "MID",
+    "price": 4.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.45,
+    "md2_pts": 2
+  },
+  {
+    "id": 879,
+    "name": "Ismael Diaz",
+    "abbr": "PAN",
+    "pos": "FWD",
+    "price": 4.9,
+    "owned_pct": 0.2,
+    "start_prob": 0.7,
+    "md2_pts": 2
+  },
+  {
+    "id": 463,
+    "name": "Ezri Konsa",
+    "abbr": "ENG",
+    "pos": "DEF",
+    "price": 4.8,
+    "owned_pct": 1,
+    "start_prob": 0.3,
+    "md2_pts": 1.5
+  },
+  {
+    "id": 477,
+    "name": "Jordan Pickford",
+    "abbr": "ENG",
+    "pos": "GK",
+    "price": 4.8,
+    "owned_pct": 14.6,
+    "start_prob": 0.95,
+    "md2_pts": 4.3
+  },
+  {
+    "id": 457,
+    "name": "Nico OReilly",
+    "abbr": "ENG",
+    "pos": "DEF",
+    "price": 4.7,
+    "owned_pct": 11.8,
+    "start_prob": 0.7,
+    "md2_pts": 3.4
+  },
+  {
+    "id": 1982,
+    "name": "Caleb Yirenkyi",
+    "abbr": "GHA",
+    "pos": "MID",
+    "price": 4.7,
+    "owned_pct": 0,
+    "start_prob": 0.8,
+    "md2_pts": 1.8
+  },
+  {
+    "id": 466,
+    "name": "John Stones",
+    "abbr": "ENG",
+    "pos": "DEF",
+    "price": 4.6,
+    "owned_pct": 1.5,
+    "start_prob": 0.7,
+    "md2_pts": 3.5
+  },
+  {
+    "id": 338,
+    "name": "Dominik Livakovic",
+    "abbr": "CRO",
+    "pos": "GK",
+    "price": 4.5,
+    "owned_pct": 1.7,
+    "start_prob": 0.7,
+    "md2_pts": 3
+  },
+  {
+    "id": 467,
+    "name": "Djed Spence",
+    "abbr": "ENG",
+    "pos": "DEF",
+    "price": 4.5,
+    "owned_pct": 0.4,
+    "start_prob": 0.45,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 324,
+    "name": "Petar Sucic",
+    "abbr": "CRO",
+    "pos": "MID",
+    "price": 4.2,
+    "owned_pct": 1,
+    "start_prob": 0.7,
+    "md2_pts": 3
+  },
+  {
+    "id": 873,
+    "name": "Cesar Blackman",
+    "abbr": "PAN",
+    "pos": "DEF",
+    "price": 3.7,
+    "owned_pct": 0.1,
+    "start_prob": 0.8,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 1981,
+    "name": "Gideon Mensah",
+    "abbr": "GHA",
+    "pos": "DEF",
+    "price": 3.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.75,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 1976,
+    "name": "Jonas Adjetey",
+    "abbr": "GHA",
+    "pos": "DEF",
+    "price": 3.5,
+    "owned_pct": 0.3,
+    "start_prob": 0.8,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 1979,
+    "name": "Marvin Senaya",
+    "abbr": "GHA",
+    "pos": "DEF",
+    "price": 3.5,
+    "owned_pct": 1.1,
+    "start_prob": 0.75,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 1980,
+    "name": "Jerome Opoku",
+    "abbr": "GHA",
+    "pos": "DEF",
+    "price": 3.8,
+    "owned_pct": 0,
+    "start_prob": 0.75,
+    "md2_pts": 1.2
+  },
+  {
+    "id": 1971,
+    "name": "Lawrence Ati Zigi",
+    "abbr": "GHA",
+    "pos": "GK",
+    "price": 4,
+    "owned_pct": 0.3,
+    "start_prob": 0.75,
+    "md2_pts": 2.4
+  },
+  {
+    "id": 885,
+    "name": "Orlando Mosquera",
+    "abbr": "PAN",
+    "pos": "GK",
+    "price": 3.9,
+    "owned_pct": 0.1,
+    "start_prob": 0.55,
+    "md2_pts": 2
+  },
+  {
+    "id": 884,
+    "name": "Luis Mejia",
+    "abbr": "PAN",
+    "pos": "GK",
+    "price": 4,
+    "owned_pct": 0.2,
+    "start_prob": 0.45,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 871,
+    "name": "Jose Cordoba",
+    "abbr": "PAN",
+    "pos": "DEF",
+    "price": 4,
+    "owned_pct": 0.3,
+    "start_prob": 0.75,
+    "md2_pts": 1.6
+  },
+  {
+    "id": 330,
+    "name": "Luka Vuskovic",
+    "abbr": "CRO",
+    "pos": "DEF",
+    "price": 3.7,
+    "owned_pct": 1.2,
+    "start_prob": 0.55,
+    "md2_pts": 2.3
+  },
+  {
+    "id": 325,
+    "name": "Josip Stanisic",
+    "abbr": "CRO",
+    "pos": "DEF",
+    "price": 4.3,
+    "owned_pct": 0.6,
+    "start_prob": 0.7,
+    "md2_pts": 2.8
+  }
+]
