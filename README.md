@@ -39,9 +39,13 @@ Run live since 11 June 2026. Per-round scores in a private mini-league
 
 ## How it works
 
-```
-official data ──► projections ──► MILP optimiser ──► Monte-Carlo defence ──► decision
-(data/raw)        (data/projections)  (optimizer/)        (engine/)
+```mermaid
+flowchart LR
+    A["Official data<br/>data/raw"] --> B["Projections<br/>data/projections"]
+    B --> C["MILP optimiser<br/>optimizer/"]
+    C --> D["Monte-Carlo defence<br/>engine/"]
+    D --> E["Decision<br/>squad · transfers · captain"]
+    style E fill:#7ee787,stroke:#2ea043,color:#000
 ```
 
 - **Squad build (MD1)** — `optimizer/squad_build_md1.py`: exact MILP over ~560 priced
