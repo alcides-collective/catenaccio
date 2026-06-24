@@ -16,3 +16,6 @@ venv/
 .DS_Store
 .claude/
 *.swp
+
+# local agent instructions (not for the public repo)
+CLAUDE.md
