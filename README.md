@@ -4,7 +4,7 @@
 
 ![python](https://img.shields.io/badge/python-3.11+-blue)
 ![solver](https://img.shields.io/badge/solver-scipy%20HiGHS%20(MILP)-orange)
-![status](https://img.shields.io/badge/league-1st%20place%20(%2B14)-success)
+![license](https://img.shields.io/badge/license-MIT%20+%20Beer-yellow)
 
 *Catenaccio* — Helenio Herrera's bolt-the-door defensive system at Inter in the 1960s.
 The name is the thesis: once you're ahead, the right objective is no longer expected
@@ -27,15 +27,15 @@ squad, transfers, captain and bench under the real game constraints:
 4. **Defend the lead** with a calibrated Monte-Carlo engine that scores decisions by
    `P(stay 1st)` instead of raw EV — the core idea behind the name.
 
-## Result so far
+## Track record
 
-Entered on 11 June 2026. **1st place** in the mini-league after Matchday 2 — 185 pts,
-**+14** over 2nd. See [`results/`](results/).
+Run live since 11 June 2026. Per-round scores in a private mini-league
+(see [`results/`](results/)):
 
-| Round | Round pts | Position |
-|-------|-----------|----------|
-| MD1   | 91        | 1st      |
-| MD2   | 94        | 1st (+14)|
+| Round | Round pts |
+|-------|-----------|
+| MD1   | 91        |
+| MD2   | 94        |
 
 ## How it works
 
