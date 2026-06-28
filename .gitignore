@@ -19,3 +19,5 @@ venv/
 
 # local agent instructions (not for the public repo)
 CLAUDE.md
+docs/help
+docs/faq

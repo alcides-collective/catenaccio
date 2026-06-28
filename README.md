@@ -32,10 +32,16 @@ squad, transfers, captain and bench under the real game constraints:
 Run live since 11 June 2026. Per-round scores in a private mini-league
 (see [`results/`](results/)):
 
-| Round | Round pts |
-|-------|-----------|
-| MD1   | 91        |
-| MD2   | 94        |
+| Round | Round pts | Standing      |
+|-------|-----------|---------------|
+| MD1   | 91        | 1st           |
+| MD2   | 94        | 1st (+14)     |
+| MD3   | 50        | 2nd (−15)     |
+
+A cold MD3 cost the lead — a low-variance plan only protects a lead if its floor sits
+near the field's, and ours didn't. That flips the objective for the knockouts: the
+Round-of-32 rebuild stops minimising variance vs the field and starts **maximising it
+relative to the specific leader** (the chaser's problem). Same engine, inverted target.
 
 ## How it works
 
@@ -62,6 +68,11 @@ flowchart LR
   should captain the field's *modal* premium, not the highest-EV one.
 - **Probability calibration** — `engine/calibrate_p4.py`: a logistic model for
   `P(player scores >4)` fit on realised MD1+MD2 data, replacing a hand-set heuristic.
+- **Knockout chaser (R32)** — `optimizer/squad_build_r32.py` + `engine/monte_carlo_r32.py`:
+  the inverted build. Full $105m rebuild, then a head-to-head simulator that scores each
+  captain by `P(overtake the leader)` — with a shared per-nation team shock so co-owned
+  players cancel, and an *ensemble over the leader's likely captain* so the pick is robust,
+  not assumed. The conclusion: when chasing, captain a premium the leader **can't** own.
 
 ## Repository structure
 
@@ -93,6 +104,10 @@ python optimizer/transfer_md3.py
 # (re)fit the scoring-probability model and run the title-defence simulation
 python engine/calibrate_p4.py
 python engine/monte_carlo.py
+
+# knockout chaser: rebuild the R32 squad ($105m) and pick the captain by P(overtake)
+python optimizer/squad_build_r32.py
+python engine/monte_carlo_r32.py
 ```
 
 Scripts resolve paths relative to the repo root, so they run from any directory.
